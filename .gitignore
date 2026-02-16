@@ -1,5 +1,6 @@
 .env
 test_*.py
+test_key.py
 __pycache__/
 .vs/
 *.user

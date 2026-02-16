@@ -3,6 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="Physio Research Dashboard | Weekly Sports Science Breakdowns">
+<meta property="og:description" content="A live dashboard tracking the latest 2026 research in running, climbing, and ACL rehab. Updated weekly with clinical implications and key stats.">
+<meta property="og:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
+<meta property="og:url" content="https://rehabinapinch.github.io/physio-research-dashboard/">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Physio Research Dashboard">
+<meta name="twitter:description" content="Weekly sports physio research breakdowns for clinicians and athletes.">
+<meta name="twitter:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
     <title>Waldo's Physio Journal Club</title>
     <style>
         :root {
@@ -313,7 +323,7 @@
 
         async function loadData() {
             try {
-                const response = await fetch('weekly_research.json');
+                const response = await fetch('weekly_research.json?v=' + Date.now());
                 const dataset = await response.json();
 
                 allPapers = dataset.papers;
