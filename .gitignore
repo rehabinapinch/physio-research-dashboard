@@ -1,0 +1,6 @@
+.env
+test_*.py
+__pycache__/
+.vs/
+*.user
+*.suo

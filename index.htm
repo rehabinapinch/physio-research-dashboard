@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waldo's Physio Journal Club</title>
+    <style>
+        :root {
+            --primary: #4A90D9;
+            --primary-dark: #2C6FB5;
+            --accent: #E74C3C;
+            --bg: #F4F6F8;
+            --card-bg: #FFFFFF;
+            --text-main: #2C3E50;
+            --text-light: #7F8C8D;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text-main);
+            padding: 20px;
+            margin: 0;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 40px 0 20px;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+        }
+
+            .header h1 {
+                color: var(--primary-dark);
+                font-size: 2.2em;
+                margin: 0 0 10px;
+                font-weight: 800;
+            }
+
+        .status-bar {
+            display: inline-flex;
+            gap: 15px;
+            margin-top: 15px;
+            font-size: 0.9em;
+            color: var(--text-light);
+        }
+
+        .timer-badge {
+            background: #E8F8F5;
+            color: #27AE60;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+        }
+
+        .filter-container {
+            margin-top: 25px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: #F0F2F5;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            color: var(--text-light);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+            .filter-btn:hover, .filter-btn.active {
+                background: var(--primary);
+                color: white;
+                transform: translateY(-2px);
+            }
+
+        .grid {
+            column-count: 3;
+            column-gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        @media (max-width: 1000px) {
+            .grid {
+                column-count: 2;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .grid {
+                column-count: 1;
+            }
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            transition: transform 0.2s ease;
+            border-top: 4px solid var(--primary);
+            break-inside: avoid;
+            display: inline-block;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+            .card:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+            }
+
+        .tag {
+            background: rgba(74, 144, 217, 0.1);
+            color: var(--primary-dark);
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 0.7em;
+            text-transform: uppercase;
+            font-weight: 700;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+
+        h2 {
+            font-size: 1.2em;
+            line-height: 1.4;
+            margin: 0 0 10px;
+            color: var(--text-main);
+            font-weight: 700;
+        }
+
+        .meta {
+            font-size: 0.85em;
+            color: var(--text-light);
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #EEE;
+        }
+
+        .section {
+            margin-bottom: 15px;
+        }
+
+        .section-title {
+            font-weight: 800;
+            font-size: 0.75em;
+            text-transform: uppercase;
+            color: #B0BEC5;
+            margin-bottom: 6px;
+        }
+
+        .stat-box {
+            background: #F4FAFD;
+            color: var(--primary-dark);
+            padding: 10px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9em;
+            border-left: 3px solid var(--primary);
+        }
+
+        .implication-box {
+            background: #F0FDF4;
+            color: #15803D;
+            padding: 10px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9em;
+            border-left: 3px solid #22C55E;
+        }
+
+        .abstract-box {
+            background: #F8F9FA;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 0.85em;
+            max-height: 100px;
+            overflow-y: auto;
+            color: #666;
+            line-height: 1.6;
+            border: 1px solid #EEE;
+        }
+
+        .read-btn {
+            display: block;
+            width: 100%;
+            text-align: center;
+            padding: 10px 0;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.9em;
+            transition: background 0.2s;
+            margin-top: 15px;
+        }
+
+            .read-btn:hover {
+                background: var(--primary-dark);
+            }
+
+        ul {
+            padding-left: 18px;
+            margin: 5px 0;
+        }
+
+        li {
+            margin-bottom: 6px;
+            line-height: 1.4;
+            font-size: 0.9em;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>🗒️ Waldo's Physio Journal Club</h1>
+        <div class="app-info"><h5>Created by <a href="https://www.linkedin.com/in/physiotools/">Waldo Cheung PT</a> Copyright 2026 </h5></div>
+        <div class="status-bar">
+            <span id="lastUpdated">Updated: Loading...</span>
+            <span class="timer-badge">⏳ Next Update: <span id="countdown">...</span></span>
+        </div>
+
+        <div class="filter-container" id="filterContainer">
+            <button class="filter-btn active" onclick="filterCards('all')">All Research</button>
+            <button class="filter-btn" onclick="filterCards('Running Injuries')">🏃 Running</button>
+            <button class="filter-btn" onclick="filterCards('Climbing Injuries')">🧗 Climbing</button>
+            <button class="filter-btn" onclick="filterCards('Shoulder Rehab')">💪 Shoulder</button>
+            <button class="filter-btn" onclick="filterCards('Knee Rehab')">🦵 Knee</button>
+        </div>
+    </div>
+
+    <div id="app" class="grid"></div>
+
+    <script>
+        let allPapers = [];
+
+        function startTimer(lastDateStr) {
+            const lastDate = new Date(lastDateStr);
+            const nextDate = new Date(lastDate);
+            nextDate.setDate(lastDate.getDate() + 7);
+            const diffDays = Math.ceil(Math.abs(nextDate - new Date()) / (1000 * 60 * 60 * 24));
+            document.getElementById('countdown').innerText = (diffDays > 0 ? diffDays : 0) + " days";
+        }
+
+        function filterCards(category) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            // Use event to find the clicked button if available
+            if (event && event.target) {
+                event.target.classList.add('active');
+            }
+
+            const container = document.getElementById('app');
+            container.innerHTML = '';
+
+            const filtered = category === 'all' ? allPapers : allPapers.filter(p => p.category === category);
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<div style="text-align:center; grid-column: 1 / -1; width: 100%;"><h3>No matching studies found for this filter.</h3></div>';
+                return;
+            }
+
+            filtered.forEach(renderCard);
+        }
+
+        function renderCard(paper) {
+            const container = document.getElementById('app');
+            const card = document.createElement('div');
+            card.className = 'card';
+
+            let findingsHTML = Array.isArray(paper.findings) ? paper.findings.map(f => `<li>${f}</li>`).join('') : `<li>${paper.findings}</li>`;
+
+            card.innerHTML = `
+                    <span class="tag">${paper.category}</span>
+                    <h2>${paper.title}</h2>
+                    <div class="meta"><b>${paper.methods || "Methodology not specified"}</b> • ${paper.authors} (${paper.year})</div>
+
+                    <div class="section">
+                        <div class="section-title">📊 Key Stats</div>
+                        <div class="stat-box">${paper.stats}</div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">💡 Findings</div>
+                        <ul>${findingsHTML}</ul>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">✅ Practice Implication</div>
+                        <div class="implication-box">${paper.implications}</div>
+                    </div>
+
+                    <div class="section">
+                        <div class="section-title">📄 Abstract</div>
+                        <div class="abstract-box">${paper.abstract}</div>
+                    </div>
+
+                    <a href="${paper.link}" target="_blank" class="read-btn">🔗 Read Full Study</a>
+                `;
+            container.appendChild(card);
+        }
+
+        async function loadData() {
+            try {
+                const response = await fetch('weekly_research.json');
+                const dataset = await response.json();
+
+                allPapers = dataset.papers;
+                document.getElementById('lastUpdated').innerText = "Updated: " + dataset.last_updated;
+                startTimer(dataset.last_updated);
+
+                // Re-calling filter with 'all' ensures the list is populated immediately
+                filterCards('all');
+
+            } catch (error) {
+                console.error("Error loading JSON: ", error);
+                document.getElementById('app').innerHTML = '<div style="text-align:center; width: 100%;"><h3>Error loading data. Please check weekly_research.json.</h3></div>';
+            }
+        }
+
+        // Start loading data as soon as the script runs
+        loadData();
+    </script>
+</body>
+</html>

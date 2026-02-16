@@ -1,0 +1,36 @@
+name: Weekly Research Trawler
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # This runs every Sunday at midnight
+  workflow_dispatch: # This adds a manual "Run" button on GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/abstract-setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install biopython google-generativeai python-dotenv
+
+      - name: Run Trawler
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ENTREZ_API_KEY: ${{ secrets.ENTREZ_API_KEY }}
+        run: python trawler.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add weekly_research.json
+          git commit -m "Automated Weekly Research Update" || echo "No changes to commit"
+          git push
