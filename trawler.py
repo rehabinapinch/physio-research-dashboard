@@ -30,7 +30,7 @@ Entrez.api_key = PUBMED_KEY
 # --- 4. TOPICS & FILTERS ---
 STUDY_TYPES = '(Meta-Analysis[pt] OR "Randomized Controlled Trial"[pt] OR "Systematic Review"[pt] OR "Clinical Trial"[pt] OR "Observational Study"[pt])'
 NO_ANIMALS = 'NOT ("animals"[MeSH Terms] NOT "humans"[MeSH Terms])'
-DATE_RANGE = '("2025/11/11"[PDAT] : "3000/12/31"[PDAT])'
+DATE_RANGE = '("2025/01/01"[PDAT] : "3000/12/31"[PDAT])'
 FILTERS = f"AND {STUDY_TYPES} {NO_ANIMALS} AND {DATE_RANGE}"
 
 CATEGORIES = {
@@ -42,7 +42,7 @@ CATEGORIES = {
 }
 
 # --- 5. FUNCTIONS ---
-def get_pubmed_papers(query, max_results=2):
+def get_pubmed_papers(query, max_results=10):
     try:
         handle = Entrez.esearch(db="pubmed", term=query, sort="date", retmax=max_results)
         record = Entrez.read(handle)
@@ -119,7 +119,7 @@ print("🚀 Starting Search (Scientific Mode)...")
 
 for topic, query in CATEGORIES.items():
     print(f"   Searching: {topic}...")
-    papers = get_pubmed_papers(query, max_results=2)
+    papers = get_pubmed_papers(query, max_results=10)
     for p in papers:
         if p['title'] in existing_titles:
             print(f"      ⏩ Skipping Duplicate: {p['title'][:20]}...")
