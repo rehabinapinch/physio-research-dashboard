@@ -1,6 +1,40 @@
 {
-    "last_updated": "February 15, 2026",
+    "last_updated": "February 22, 2026",
     "papers": [
+        {
+            "title": "Exercise for multidirectional instability of the shoulder.",
+            "authors": "Karasuyama et al.",
+            "journal": "The Cochrane database of systematic reviews",
+            "abstract": "Multidirectional shoulder instability is characterised by symptomatic subluxation or dislocation in at least two directions, often affecting young, active individuals. Although exercise therapy is commonly recommended as a first-line treatment, its benefits and harms remain uncertain.",
+            "link": "https://doi.org/10.1002/14651858.CD015450.pub2",
+            "year": "2026",
+            "methods": "No specific study design or sample size described, this abstract provides background information and highlights a research gap.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Multidirectional shoulder instability is characterized by symptomatic subluxation or dislocation in at least two directions.",
+                "This condition frequently affects young, active individuals.",
+                "Despite exercise therapy being a commonly recommended first-line treatment, its benefits and harms for multidirectional shoulder instability remain uncertain."
+            ],
+            "implications": "When treating young, active individuals with multidirectional shoulder instability, physiotherapists should acknowledge the current uncertainty regarding the benefits and harms of exercise therapy, ensuring clear communication with patients and meticulous monitoring of individual treatment responses.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Rehabilitation efficacy of Low-Load blood flow restriction training for lateral patellar compression syndrome.",
+            "authors": "Wang et al.",
+            "journal": "Journal of orthopaedic surgery and research",
+            "abstract": "Arthroscopic lateral retinacular release (LRR) is an effective treatment for lateral patellar compression syndrome (LPCS), but postoperative rehabilitation remains crucial. Low-load blood flow restriction training (LL-BFRT) has been shown to be beneficial in sports medicine; however, its effect on postoperative recovery in LPCS is unclear.",
+            "link": "https://doi.org/10.1186/s13018-025-06608-z",
+            "year": "2026",
+            "methods": "Not applicable; this abstract identifies a research gap rather than presenting a specific study design or sample size.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Arthroscopic lateral retinacular release (LRR) is recognized as an effective treatment for lateral patellar compression syndrome (LPCS).",
+                "Postoperative rehabilitation is crucial for optimal recovery following LRR for LPCS.",
+                "Low-load blood flow restriction training (LL-BFRT) has demonstrated general benefits in sports medicine, but its specific effect on postoperative recovery in LPCS is currently unclear."
+            ],
+            "implications": "For patients undergoing LRR for LPCS, continue to emphasize comprehensive postoperative rehabilitation. While LL-BFRT shows promise in general sports medicine, its specific application and efficacy for LPCS recovery still require dedicated research before routine integration into clinical practice.",
+            "category": "Physiotherapy General"
+        },
         {
             "title": "Effectiveness of repeated ultrasound-guided suprascapular nerve blocks in hemiplegic shoulder pain: A randomized controlled trial.",
             "authors": "Dogan et al.",
