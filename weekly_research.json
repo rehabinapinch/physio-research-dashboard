@@ -1,6 +1,488 @@
 {
-    "last_updated": "February 22, 2026",
+    "last_updated": "March 01, 2026",
     "papers": [
+        {
+            "title": "Gait Analysis as a Measure of Physical Performance in Older Adults with Bilateral Knee Osteoarthritis.",
+            "authors": "Kamal et al.",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "abstract": "<i>Background and Objectives.</i> Bilateral knee osteoarthritis (KOA) in older patients compromises mobility and quality of life. Gait analysis provides objective, reproducible measures of physical performance. This study evaluated the integration of gait analysis for longitudinal monitoring and personalized rehabilitation, while ultrasound was performed only at baseline for characterization and did not inform adjustments to the interventions. <i>Materials and Methods.</i> We conducted a 6-week, randomized, parallel-group clinical trial including 130 participants aged \u226565 years. Patients were randomized to a Study Group (SG, <i>n</i> = 64) receiving 10 sessions of a comprehensive rehabilitation program (conventional measures plus gait training) or a Control Group (CG, <i>n</i> = 66) receiving 10 sessions of conventional rehabilitation (electrotherapy with magnetodiaflux, TENS, therapeutic ultrasound, low-intensity laser, plus standard kinesitherapy). Interventions were delivered daily, 5 days/week, over 2 consecutive weeks. Gait outcomes (BTS G-WALK/G-SENSOR 2) included TUG, Symmetry Index, 6MWD, and cadence; functional outcomes included VAS pain, WOMAC, and Lequesne Index. Quadriceps morphology was assessed sonographically, and a height-normalized quadriceps thickness index (QHNI) was calculated. <i>Results.</i> Of 130 randomized, 112 completed (93.3%). Compared with control, the intervention produced significant, clinically meaningful improvements: 6MWD increased by approximately 59 m, cadence by ~9 steps/min; TUG improved by ~2.6 s; gait symmetry by ~4-5 points; VAS pain decreased by ~1.7 points; WOMAC total by ~8.5 points; and Lequesne Index by ~2 points (all <i>p</i> < 0.001). QHNI showed no significant association with anthropometrics and performance measures, indicating limited value as a linear predictor at baseline; nonlinear models or subgroup analyses may be warranted. <i>Conclusions.</i> Both neuromuscular-focused rehabilitation and the conventional program improved gait and clinical outcomes. Integrating gait analysis with ultrasound evaluation enables comprehensive monitoring and supports personalized interventions to reduce joint loading and optimize gait mechanics in older patients with bilateral KOA.",
+            "link": "https://doi.org/10.3390/medicina61122118",
+            "year": "2025",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Supplementation with Bromelain, Troxerutin, and Escin to Support Postoperative Recovery After Hip or Knee Arthroplasty in Older Adults: A Pilot Study.",
+            "authors": "Landi et al.",
+            "journal": "Nutrients",
+            "abstract": "<b>Background:</b> Bromelain, a proteolytic enzyme extracted from <i>Ananas comosus</i>, exhibits anti-edematous and anti-inflammatory properties that may facilitate postoperative recovery. Troxerutin and escin, respectively, a vasoactive flavonoid and a saponin derivative, also provide anti-edematous and microcirculatory benefits that could enhance tissue repair and functional outcomes. Evidence on their combined use in older adults undergoing rehabilitation after major orthopedic surgery remains limited. <b>Methods</b>: We conducted retrospective observational study in adults aged 65 years or older admitted to a post-acute rehabilitation unit after total hip or total knee arthroplasty. Half of the participants received an oral supplement containing bromelain (400 mg/day), troxerutin (300 mg/day), and escin (40 mg/day) for up to 21 days alongside usual care and standard medications. The primary outcome was pain reduction assessed through the Visual Analog Scale (VAS). Secondary outcomes included changes in postoperative edema and functional recovery, evaluated through range of motion, the Barthel Index, and gait performance. <b>Result:</b> Forty participants were enrolled (mean age 69.4 \u00b1 7.2 years; 58 percent women). Individuals receiving the combined supplement achieved significantly greater pain improvement than controls. At day 10 (T1), VAS scores declined from 6.8 \u00b1 1.0 to 3.2 \u00b1 0.9 in the supplemented group versus 6.7 \u00b1 1.1 to 4.5 \u00b1 1.0 in controls (<i>p</i> < 0.01). At day 21 (T2), VAS further decreased to 1.8 \u00b1 0.7 in the supplemented group and to 3.1 \u00b1 0.8 with standard treatment (<i>p</i> < 0.001). Functional performance also improved more markedly with supplementation, with earlier mobilization and faster recovery of autonomy. No significant side effects were reported. <b>Conclusions:</b> In this pilot study, combined bromelain, troxerutin, and escin supplementation was associated with meaningful reductions in postoperative pain and edema and with faster functional recovery. Larger controlled trials are warranted to confirm these effects and elucidate underlying mechanisms.",
+            "link": "https://doi.org/10.3390/nu17243815",
+            "year": "2025",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effect of tele-rehabilitation guided intervention on pain and function in middle-aged and older adult patients with knee osteoarthritis: a systematic review and meta-analysis.",
+            "authors": "Jia et al.",
+            "journal": "Frontiers in public health",
+            "abstract": "To assess the effect of tele-rehabilitation interventions on pain and function in middle-aged and older adult patients with knee osteoarthritis (KOA).",
+            "link": "https://doi.org/10.3389/fpubh.2025.1724092",
+            "year": "2025",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Total and partial knee arthroplasty versus non-surgical interventions of the knee for moderate to severe osteoarthritis.",
+            "authors": "Pacheco-Brousseau et al.",
+            "journal": "The Cochrane database of systematic reviews",
+            "abstract": "Total and partial knee arthroplasty (TKA, PKA) are common treatments for moderate to severe knee osteoarthritis. While effective in symptom management, these surgeries carry potential risks, necessitating careful evaluation of benefits and harms. High-quality evidence comparing TKA/PKA to placebo, sham, or non-surgical interventions is essential to support informed decision-making.",
+            "link": "https://doi.org/10.1002/14651858.CD015378.pub2",
+            "year": "2026",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Electromyographic biofeedback or neuromuscular electrical stimulation added to isometric quadriceps exercise does not improve pain and functional outcomes in knee osteoarthritis: a randomized controlled trial.",
+            "authors": "Mahnik et al.",
+            "journal": "International journal of rehabilitation research. Internationale Zeitschrift fur Rehabilitationsforschung. Revue internationale de recherches de readaptation",
+            "abstract": "Quadriceps muscle weakness is a common clinical feature in individuals with knee osteoarthritis (KOA) and contributes to pain, functional limitations, and reduced quality of life. While quadriceps strengthening exercises are well-established, the additional benefits of electromyographic biofeedback (EMG-BFB) and neuromuscular electrical stimulation (NMES) remain inconclusive. This single-blind randomized controlled trial investigated whether EMG-BFB or NMES provides added benefits when combined with isometric quadriceps strengthening exercises in patients with mild-to-moderate KOA. Ninety-three participants aged over 55 years, meeting the American College of Rheumatology criteria and classified as Kellgren-Lawrence grades 1-2, were randomly assigned to three groups: exercise only, exercise plus EMG-BFB, and exercise plus NMES. All participants completed 15 supervised sessions over 3 weeks. Pain intensity (Visual Analogue Scale) was the primary outcome. Secondary outcomes included physical function (Western Ontario and McMaster Universities Osteoarthritis Index), muscle activation (raw EMG amplitude), and quality of life (36-Item Short Form Health Survey), assessed at baseline, immediately after the intervention, and at 3- and 6-month follow-up. All groups demonstrated significant improvements in pain, knee function, muscle activation, and quality of life following the intervention, with benefits maintained at follow-up. However, no significant differences were observed between groups at any time point. These results suggest that isometric quadriceps strengthening exercises alone are effective in managing KOA, while the addition of EMG-BFB or NMES does not yield superior clinical outcomes. Given the simplicity, accessibility, and effectiveness of exercise alone, it may serve as a first-line intervention, while the specific clinical indications for adding EMG-BFB and NMES to isometric exercises remain to be determined.",
+            "link": "https://doi.org/10.1097/MRR.0000000000000689",
+            "year": "2026",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Robotic-assisted hip and knee replacement in NHS scotland: trends and efficiency implications (2020-2024).",
+            "authors": "Tafat et al.",
+            "journal": "Journal of robotic surgery",
+            "abstract": "Robotic-assisted hip and knee replacement has been increasingly adopted in orthopaedic practice, offering potential advantages in surgical precision and workflow consistency. However, its efficiency compared with conventional manual methods in real-world NHS practice remains debated. This retrospective observational study analysed routinely collected data from the Arthroplasty Rehabilitation in Scotland Endeavour (ARISE) programme, including patients undergoing unilateral primary hip or knee replacement between 2020 and 2024. Robotic-assisted status, type of surgery, and operative duration were examined. Uptake of robotic-assisted hip and knee replacement was assessed annually, and comparative analyses evaluated operative times between robotic-assisted and manual procedures. Robotic-assisted hip and knee replacements increased from 101 procedures in 2020 to 1164 in 2024, representing a tenfold rise. Despite this growth, robotic cases accounted for fewer than 10% of all hip and knee replacements, with uptake concentrated in a small number of centres. Median operative durations were similar between robotic-assisted and manual procedures for both hips and knees. However, robotic surgeries demonstrated narrower interquartile ranges and fewer outliers. Knee replacements showed consistently higher adoption than hip replacement across the study period. Robotic-assisted hip and knee replacement has expanded rapidly in NHS Scotland, though access remains uneven across hospitals. Operative efficiency is comparable to conventional methods, but improved consistency may offer service-level benefits such as more predictable theatre scheduling. Wider adoption will require strategic investment in infrastructure, training, and equitable resource distribution to maximise the potential benefits of robotic-assisted technology within the NHS.",
+            "link": "https://doi.org/10.1007/s11701-025-03086-7",
+            "year": "2026",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effect of proprioceptive neuromuscular facilitation on pain and joint mobility in knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.",
+            "authors": "Hu et al.",
+            "journal": "PeerJ",
+            "abstract": "To systematically assess the effect of proprioceptive neuromuscular facilitation (PNF), compared to control interventions or other rehabilitation techniques (RT), on pain intensity and knee active range of motion (AROM) in adults with knee osteoarthritis (KOA).",
+            "link": "https://doi.org/10.7717/peerj.20581",
+            "year": "2026",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Meta-analysis of comparative effects of mobile app-based digital rehabilitation versus traditional rehabilitation after total knee arthroplasty.",
+            "authors": "Ma et al.",
+            "journal": "Frontiers in physiology",
+            "abstract": "The purpose of this study is to compare the effect of digital rehabilitation based on mobile app and traditional rehabilitation program after total knee arthroplasty.",
+            "link": "https://doi.org/10.3389/fphys.2025.1737373",
+            "year": "2025",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Efficacy and safety of acupuncture or moxibustion combined with rehabilitation therapy for post-stroke shoulder-hand syndrome: a systematic review and meta-analysis of randomized controlled trials.",
+            "authors": "Wang et al.",
+            "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+            "abstract": "This study evaluated the efficacy and safety of acupuncture or moxibustion combined with rehabilitation therapy for post-stroke shoulder-hand syndrome (SHS).",
+            "link": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2025.108509",
+            "year": "2026",
+            "methods": "Analysis Error",
+            "findings": [
+                "Error analyzing text"
+            ],
+            "implications": "Check abstract",
+            "stats": "N/A",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Effects of different intensity of resistance exercise on shoulder function and immune function in young and middle-aged postoperative breast cancer patients: a randomized control trial.",
+            "authors": "Yijing et al.",
+            "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+            "abstract": "This study aimed to investigate the effects of different intensities of resistance exercise on shoulder function and immune response in young and middle-aged breast cancer patients after surgery.",
+            "link": "https://doi.org/10.1007/s00520-025-10230-4",
+            "year": "2025",
+            "methods": "Study design and sample size not specified in this abstract, which outlines an investigation into exercise effects.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "No findings are presented in this abstract, as it solely states the study's aim."
+            ],
+            "implications": "Physiotherapists should consider incorporating resistance exercise into post-surgical rehabilitation for breast cancer patients, while acknowledging the need for further research to determine optimal intensities for shoulder function and immune response.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Comparative effectiveness of acupuncture-related therapies for frozen shoulder: a systematic review and network meta-analysis.",
+            "authors": "Ji et al.",
+            "journal": "Frontiers in medicine",
+            "abstract": "Frozen shoulder is a common condition that limits shoulder mobility and causes pain, significantly affecting daily function. Acupuncture and related therapies are increasingly used as treatment options and may offer potential benefits, but their overall effectiveness remains uncertain. This study aims to systematically evaluate the clinical efficacy of acupuncture and related therapies for frozen shoulder through a network meta-analysis.",
+            "link": "https://doi.org/10.3389/fmed.2025.1673193",
+            "year": "2025",
+            "methods": "Network Meta-analysis, n=unspecified",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Frozen shoulder is a common condition that leads to limited shoulder mobility, pain, and significantly impacts daily function.",
+                "Acupuncture and related therapies are increasingly explored for treating frozen shoulder, but their overall clinical effectiveness remains uncertain.",
+                "This study aims to systematically evaluate the clinical efficacy of acupuncture and related therapies for frozen shoulder."
+            ],
+            "implications": "Given the current uncertainty regarding the overall effectiveness of acupuncture and related therapies for frozen shoulder, physiotherapists should await robust evidence from studies like this network meta-analysis before significantly altering current evidence-based treatment protocols.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "[Effect of relaxing needling at the contracted sites of meridian-muscle regions in the patients with post-stroke shoulder-hand syndrome at acute stage].",
+            "authors": "Ying et al.",
+            "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+            "abstract": "To investigate the effect of relaxing needling at the contracted sites of meridian-muscle regions in the patients with post-stroke shoulder-hand syndrome (SHS) at acute stage.",
+            "link": "https://doi.org/10.13703/j.0255-2930.20241122-0001",
+            "year": "2025",
+            "methods": "The abstract describes the objective of an investigation into an intervention but does not specify the study design (e.g., RCT, quasi-experimental) or sample size (n=).",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "This abstract solely presents the study's objective, which is to investigate the effect of relaxing needling at contracted sites of meridian-muscle regions.",
+                "The target population for this investigation is patients with post-stroke shoulder-hand syndrome (SHS) at the acute stage.",
+                "No specific findings, results, or numerical data are reported in this abstract."
+            ],
+            "implications": "This abstract outlines a research objective; however, without reported findings or data, no specific actionable clinical tips for physiotherapists can be derived from this text at this time.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "A systematic review and meta-analysis on the use of diagnostic ultrasound in guiding corticosteroid injections for shoulder pain (subacromial/ subdeltoid bursa).",
+            "authors": "Khan et al.",
+            "journal": "JPMA. The Journal of the Pakistan Medical Association",
+            "abstract": "To assess the efficacy of diagnostic ultrasound-guided corticosteroid injections in subacromial/subdeltoid bursa in the management of shoulder pain.",
+            "link": "https://doi.org/10.47391/JPMA.25-20274",
+            "year": "2025",
+            "methods": "This abstract outlines the objective of a study to assess efficacy. The study design and sample size are not specified in this abstract.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "No findings are presented in this abstract, as it solely describes the study's objective.",
+                "The abstract aims to investigate the efficacy of diagnostic ultrasound-guided corticosteroid injections for subacromial/subdeltoid bursa pain."
+            ],
+            "implications": "This abstract only presents the study objective; no clinical implications or actionable tips can be derived for a physiotherapist without the study's results.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Clinical outcomes of intra-articular corticosteroid injection vs. multimodal physiotherapy in patients with frozen shoulder in short term: a randomized clinical trial.",
+            "authors": "Zare et al.",
+            "journal": "Scientific reports",
+            "abstract": "This study aimed to compare the short-term effects of multimodal physiotherapy (MPT) with intra-articular corticosteroid injection (IAI) on pain, disability, effectiveness of treatment, and passive range of motion in patients with frozen shoulder. Randomized Controlled Trial. University Hospital. Patients diagnosed with frozen shoulder with at least 50% passive range of motion (PROM) limitation. Forty-eight patients were allocated into two groups: Group A: MPT and Group B: IAI. After allocation, all patients received a prescription of a comprehensive home exercise pamphlet (HEP) and were instructed to perform them for six weeks. Pain ((visual analogue scale (VAS), shoulder pain and disability index (SPADI)), disability (SPADI), and PROM for abduction, external rotation, and scaption were recorded at the baseline and 6 weeks after randomization. The effectiveness of treatment (global rating scale (GRC)) was recorded 6 weeks after randomization. Pain (VAS) and (SPADI), disability (SPADI), and passive range of motion (PROM) significantly improved after both treatments (p\u2009<\u2009001). The effect size of MPT was larger than IAI for all outcomes. Notably, significant positive differences were observed in internal rotation PROM (p\u2009=\u20090.036, effect size (ES)\u2009=\u20090.627) and the disability section of the GRC scale (p\u2009=\u20090.005), indicating that MPT was more effective. However, in VAS, SPADI (total), GRC (pain), external rotation, abduction, and scaption PROM, the difference between the treatment groups was not statistically significant. MPT and IAI are both effective short-term interventions. The stronger effect and specific superior outcomes of MPT are promising, but the limited sample size precludes definitive conclusions regarding superiority. Larger trials are warranted to confirm these findings.",
+            "link": "https://doi.org/10.1038/s41598-025-33598-z",
+            "year": "2025",
+            "methods": "Randomized Controlled Trial, n=48",
+            "stats": "p < 0.001 (for overall improvement), p = 0.036 (internal rotation PROM), ES = 0.627 (internal rotation PROM), p = 0.005 (GRC disability)",
+            "findings": [
+                "Both multimodal physiotherapy (MPT) and intra-articular corticosteroid injection (IAI) significantly improved pain, disability, and passive range of motion (PROM) in patients with frozen shoulder after 6 weeks (p < 0.001).",
+                "MPT demonstrated a larger effect size than IAI across all measured outcomes. Specifically, MPT resulted in significantly greater improvements in internal rotation PROM (p = 0.036, effect size (ES) = 0.627) and the disability section of the global rating scale (GRC) (p = 0.005).",
+                "No statistically significant differences between MPT and IAI were observed for VAS, SPADI (total), GRC (pain), external rotation, abduction, and scaption PROM."
+            ],
+            "implications": "When managing frozen shoulder, physiotherapists should consider multimodal physiotherapy combined with a comprehensive home exercise program, as it shows promising superior benefits for improving internal rotation and reducing disability compared to corticosteroid injections, despite both being effective short-term options.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Frozen Shoulder Is More Than Local Pain: Widespread Sensory Hyperalgesia or Hypoesthesia?",
+            "authors": "Yu et al.",
+            "journal": "European journal of pain (London, England)",
+            "abstract": "Frozen shoulder (FS) has long been considered a localised musculoskeletal disorder, yet FS often involves widespread pain, suggesting central sensory dysregulation. While pressure pain threshold (PPT) assesses mechanical sensitivity, electrical measures such as current perception threshold (CPT) and electrical pain threshold (EPT) may capture various sensory alterations but are rarely applied in FS.",
+            "link": "https://doi.org/10.1002/ejp.70215",
+            "year": "2026",
+            "methods": "No specific study design or sample size is described within this abstract; it outlines a conceptual problem and a research gap.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Frozen shoulder (FS), while traditionally seen as a localised musculoskeletal disorder, frequently presents with widespread pain.",
+                "The presence of widespread pain in FS suggests potential central sensory dysregulation.",
+                "Electrical measures like Current Perception Threshold (CPT) and Electrical Pain Threshold (EPT), which could assess various sensory alterations, are rarely applied in FS research."
+            ],
+            "implications": "Physiotherapists treating frozen shoulder should consider that pain may extend beyond a local musculoskeletal issue, potentially involving central sensory dysregulation, prompting a broader assessment for widespread pain and neurophysiological contributions.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Effects of Protein Supplementation During Early Rehabilitation on Muscle Volume and Function After Acute Muscle Strain Injuries: A Randomized Controlled Trial.",
+            "authors": "Mertz et al.",
+            "journal": "Scandinavian journal of medicine & science in sports",
+            "abstract": "Muscle strain injuries are common in sports, with a high recurrence rate and loss of muscle mass. Whether protein supplementation can counteract the detrimental effects of strain injuries during rehabilitation has not been explored. We investigated the effects of protein supplementation during early rehabilitation of acute strain injuries on muscle volume and function. Fifty recreational athletes were enrolled for a double-blinded, randomized controlled trial comparing the effects of twice-daily whey protein supplementation to isocaloric placebo during early rehabilitation after acute hamstring or calf strain injuries. The primary outcome was changes in muscle volume during the 3\u2009months of intervention, assessed by magnetic resonance imaging. Secondary outcomes included muscle strength, time to return to sport (RTS), and aponeurosis volume. Long-term changes were assessed 12\u2009months after the injury. Muscle volume decreased in the injured muscle compared to the contralateral healthy muscle during the intervention [-9.4% (-13.5% to -5.3%), p\u2009<\u20090.0001], and persisted at 12\u2009months. No effects of protein supplementation were observed. Further, there was no effect of protein supplementation on muscle strength or RTS. There was a persistent increase in aponeurosis volume associated with the injured muscle at 3\u2009months [sixfold enlarged, +17.3\u2009cm<sup>3</sup> (+8.3 to 26.3\u2009cm<sup>3</sup>), p\u2009=\u20090.0005] and 12\u2009months [fivefold enlarged, +10.4\u2009cm<sup>3</sup> (5.3-15.4\u2009cm<sup>3</sup>), p\u2009=\u20090.0003], but it was unaffected by protein supplementation. In conclusion, muscle strain injuries cause persistent atrophy of the injured musculature and enlargement of the muscle aponeurosis, which was not counteracted by protein supplementation during the rehabilitation period. Trial Registration: Clinical trial number: NCT04100161; Clinicaltrials.gov.",
+            "link": "https://doi.org/10.1111/sms.70043",
+            "year": "2025",
+            "methods": "Double-blinded, Randomized Controlled Trial, n=50",
+            "stats": "Muscle volume decreased by -9.4% (95% CI: -13.5% to -5.3%), p < 0.0001. Aponeurosis volume increased by +17.3 cm\u00b3 (95% CI: +8.3 to 26.3 cm\u00b3) at 3 months, p = 0.0005, and by +10.4 cm\u00b3 (95% CI: 5.3-15.4 cm\u00b3) at 12 months, p = 0.0003.",
+            "findings": [
+                "Injured muscle volume decreased by -9.4% compared to the healthy contralateral muscle during the 3-month intervention, persisting at 12 months.",
+                "Protein supplementation (whey protein twice daily) showed no effect on muscle volume, muscle strength, or time to return to sport.",
+                "A persistent sixfold increase in aponeurosis volume (+17.3 cm\u00b3) was observed at 3 months, and a fivefold increase (+10.4 cm\u00b3) at 12 months, which was also unaffected by protein supplementation."
+            ],
+            "implications": "Physiotherapists should be aware that significant and persistent muscle atrophy and aponeurosis enlargement are common after acute strain injuries, and protein supplementation alone during early rehabilitation may not counteract these structural changes or improve functional outcomes.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Is Group-Based Physiotherapy a Cost-Effective Intervention Compared to Usual One-on-One Physiotherapy Care in the Management of Musculoskeletal Disorders in Active Military Personnel? An Economic Evaluation Alongside a Pragmatic Randomized Clinical Trial.",
+            "authors": "Dupuis et al.",
+            "journal": "The Journal of orthopaedic and sports physical therapy",
+            "abstract": "<b>OBJECTIVE:</b> To conduct a cost-utility analysis of a group physiotherapy intervention, compared to usual care, for musculoskeletal disorders in Canadian military personnel. <b>DESIGN:</b> Economic evaluation alongside a pragmatic randomized clinical trial. <b>METHODS:</b> One hundred and twenty military members presenting with shoulder, knee, ankle, or low back pain were randomized to receive either usual one-on-one physiotherapy care or a group intervention. Cumulative health care costs were prospectively collected over 26 weeks from the perspective of the Canadian Armed Forces. The clinical outcome of the cost-utility analysis was the quality-adjusted life-year (QALY) estimated by the ED-5Q-5L (European Quality of Life 5 Dimensions 5 Level Version) at baseline, 6, 12, and 26 weeks. The incremental cost-effectiveness ratio (ICER) was estimated by the cost difference between interventions (in 2023 Canadian dollars [CAD$]) divided by the effect difference. <b>RESULTS:</b> The mean QALY gain was 0.011 in the group intervention, and 0.010 in the usual care. The average cost for a patient was CAD $532 in the group intervention and CAD $599 in the usual care. The ICER (-$67 000/QALY) indicated that the group intervention was cost-effective, as it costs less than usual care while providing comparable effectiveness. <b>CONCLUSION:</b> Group interventions were cost-effective compared to usual care for treating musculoskeletal disorders in military personnel. <i>J Orthop Sports Phys Ther 2025;55(4):1-10. Epub 26 Feb 2025. doi: 10.2519/jospt.2025.12888</i>.",
+            "link": "https://doi.org/10.2519/jospt.2025.12888",
+            "year": "2025",
+            "methods": "Pragmatic Randomized Clinical Trial, n=120",
+            "stats": "Mean QALY gain (group intervention) = 0.011; Mean QALY gain (usual care) = 0.010; Average cost (group intervention) = CAD $532; Average cost (usual care) = CAD $599; ICER = -$67 000/QALY.",
+            "findings": [
+                "The mean QALY gain was comparable between interventions (0.011 for group intervention vs. 0.010 for usual care).",
+                "The average cost per patient was lower in the group intervention (CAD $532) compared to usual care (CAD $599).",
+                "The group intervention was cost-effective, with an ICER of -$67 000/QALY, indicating lower cost for comparable effectiveness."
+            ],
+            "implications": "Physiotherapists should consider implementing group physiotherapy interventions for musculoskeletal disorders, as they offer comparable clinical effectiveness at a lower cost than individual care.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Direct-Access Physiotherapy to Improve Access to Quality Care for Children and Adolescents Presenting to the Pediatric Emergency Department With Musculoskeletal Problems: The PEDPT-MSK Pilot Randomized Control Trial.",
+            "authors": "Langevin et al.",
+            "journal": "The Journal of orthopaedic and sports physical therapy",
+            "abstract": "<b>OBJECTIVE:</b> This pilot study aimed to evaluate the feasibility of conducting a randomized controlled trial (RCT) comparing direct-access physiotherapy for children and adolescents presenting to the pediatric emergency department (ED) with low acuity musculoskeletal complaints, to current usual care provided by a physician alone. <b>DESIGN:</b> Pragmatic parallel 2-arm, single-blinded, single site, feasibility pilot RCT. <b>METHODS:</b> Sixty-six patients (aged 6-17 years) were randomized into 2 intervention groups: (1) <i>pediatric physiotherapy group</i> (PT) (experimental), an interprofessional model including direct access to a pediatric physiotherapist immediately after triage for assessment and recommendation/intervention + ED physician confirmation of diagnosis and plan; or (2) <i>usual care control group</i> (UC), receiving usual care directly from the ED physician alone. Feasibility outcomes included eligibility, consent, retention, and follow-up completion rates. Clinical outcomes, including pain interference with function, satisfaction and health service use, were evaluated at baseline, post-ED visit, and follow-up visits at 1 and 4 weeks postintervention. <b>RESULTS</b>: Recruitment was completed within 2 months, with 53% of eligible patients enrolled. Retention to the end of study was 92% for randomized children, and similar between groups. The compliance to data collection for each clinical outcome measures ranged from 92% to 98% 4 weeks post-ED visit, and availability of administrative and clinical information from the child's medical record was achieved 100% of the time. <b>CONCLUSION:</b> The pilot RCT demonstrated feasibility in terms of recruitment, retention, and compliance to trial procedures. A larger, fully powered trial is proposed to determine the efficacy of the intervention. <i>J Orthop Sports Phys Ther 2025;55(6):1-11. Epub 29 April 2025. doi:10.2519/jospt.2025.13321</i>.",
+            "link": "https://doi.org/10.2519/jospt.2025.13321",
+            "year": "2025",
+            "methods": "Pragmatic parallel 2-arm, single-blinded, single site, feasibility pilot RCT, n=66.",
+            "stats": "Recruitment: 53% enrollment; Retention: 92% for randomized children; Compliance to data collection: 92-98% 4 weeks post-ED visit; Administrative/clinical information availability: 100%.",
+            "findings": [
+                "Recruitment for the study was completed within 2 months, successfully enrolling 53% of eligible patients.",
+                "Retention rates were high, with 92% of randomized children completing the study, and compliance for clinical outcome data collection ranged from 92% to 98% at 4 weeks post-ED visit.",
+                "The pilot RCT demonstrated feasibility in terms of recruitment, retention, and compliance to trial procedures, supporting the progression to a larger, fully powered trial."
+            ],
+            "implications": "Physiotherapists should advocate for and be prepared to participate in future fully powered trials exploring direct-access pediatric physiotherapy models within emergency departments for low acuity musculoskeletal complaints, given the demonstrated feasibility of such a program.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Clinical efficacy of athletic taping-assisted physiotherapy for plantar fasciitis: A systematic evaluation and meta-analysis.",
+            "authors": "Song et al.",
+            "journal": "Foot and ankle surgery : official journal of the European Society of Foot and Ankle Surgeons",
+            "abstract": "Plantar fasciitis is a common sports injury with long-term chronic pain in the heel as the main symptom, and athletic taping has achieved certain therapeutic effects to improve it, but the clinical efficacy of the problem is still controversial, which was evaluated by Meta-analysis to evaluate the clinical efficacy of the athletic taping technique on patients with plantar fasciitis.",
+            "link": "https://doi.org/10.1016/j.fas.2025.05.013",
+            "year": "2026",
+            "methods": "Meta-analysis",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Plantar fasciitis is recognized as a prevalent sports injury, primarily presenting with chronic heel pain.",
+                "Athletic taping has shown some therapeutic benefits in improving symptoms associated with plantar fasciitis.",
+                "The overall clinical efficacy of athletic taping as a treatment for plantar fasciitis remains a subject of controversy."
+            ],
+            "implications": "Given the ongoing controversy surrounding the clinical efficacy of athletic taping for plantar fasciitis, physiotherapists should consider it a potential adjunctive therapy, carefully assessing individual patient responses rather than relying on it as a universally established primary intervention.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "A randomized controlled trial of graded exercise rehabilitation enhances diaphragm function and exercise tolerance in patients with AECOPD.",
+            "authors": "Ran et al.",
+            "journal": "Scientific reports",
+            "abstract": "To evaluate the improvement effect of graded exercise rehabilitation on diaphragm function, exercise function, and respiratory performance in AECOPD patients. 68 AECOPD patients admitted to the Respiratory and Critical Care Department of a tertiary hospital in Zunyi City. Patients were randomly divided into a study group and a control group (each group 34 patients), and then according to the grading criteria, patients in each group were divided into 3 levels, for a total of 6 groups. The control group used conventional rehabilitation, while the study group used graded exercise rehabilitation. Bedside ultrasound was used to monitor the changes in diaphragm function (DE, DTei, DTee, DTF), 6MWT, CAT score, mMRC questionnaire, non-invasive mechanical ventilation time, and hospital stay between two groups of patients before and after rehabilitation. Compared with before the rehabilitation intervention, the study group showed significant improvement in diaphragm movement compared to the control group (P\u2009<\u20090.05). The end-inspiratory, end-expiratory, and diaphragm thickening scores all improved compared to before, and the differences were statistically significant (P\u2009<\u20090.05); The 6MWT and CAT scores of the study group were significantly higher than those of the control group after the intervention, and the difference was statistically significant (P\u2009<\u20090.05); Compared with the control group, the study group had significantly less mechanical ventilation time and hospitalization time, and the difference was statistically significant (both P\u2009<\u20090.05); The total incidence of MV related complications in the study group was lower than that in the control group, and the difference was statistically significant (P\u2009<\u20090.05). There were no actual compression injuries, aspiration, deep vein thrombosis, atelectasis, etc. in either group; The mMRC questionnaire did not show statistical significance (P\u2009>\u20090.05), but there was improvement before the intervention. Graded exercise rehabilitation can effectively improve the overall diaphragm function of patients, and has a positive effect on enhancing exercise quality and endurance; Bedside ultrasound can dynamically and real-time observe the diaphragm movement status of AECOPD patients, objectively and directly evaluate the recovery of respiratory muscle function, and has important clinical value.",
+            "link": "https://doi.org/10.1038/s41598-025-09224-3",
+            "year": "2025",
+            "methods": "Randomized Controlled Trial, n=68",
+            "stats": "P < 0.05 for diaphragm movement, end-inspiratory, end-expiratory, diaphragm thickening scores, 6MWT, CAT scores, mechanical ventilation time, hospitalization time, and MV related complications incidence. P > 0.05 for mMRC questionnaire.",
+            "findings": [
+                "Graded exercise rehabilitation significantly improved diaphragm movement parameters (DE, DTei, DTee, DTF) in the study group compared to the control group (P < 0.05).",
+                "The study group demonstrated significantly higher 6MWT and CAT scores (P < 0.05), and significantly reduced mechanical ventilation time, hospitalization time, and total incidence of MV related complications (all P < 0.05) post-intervention.",
+                "While the mMRC questionnaire showed improvement, the difference was not statistically significant (P > 0.05) between groups."
+            ],
+            "implications": "Physiotherapists should prioritize incorporating graded exercise rehabilitation programs for AECOPD patients, potentially utilizing bedside ultrasound to objectively track improvements in diaphragm function and overall exercise endurance.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Radial ESWT combined with a specific rehabilitation program (rESWT+RP) is more effective than sham rESWT+RP for acute hamstring muscle complex injury type 3b: a randomized, controlled trial.",
+            "authors": "Crupnik et al.",
+            "journal": "British medical bulletin",
+            "abstract": "Acute type 3b injuries of the hamstring muscle complex (HMC) are prevalent in sports, often lead to prolonged recovery, and demonstrate a high recurrence. Conservative rehabilitation is standard, and adjunct therapies such as radial extracorporeal shock wave therapy (rESWT) may offer additional benefits.",
+            "link": "https://doi.org/10.1093/bmb/ldaf009",
+            "year": "2025",
+            "methods": "No specific study design or sample size mentioned; the abstract provides background information on hamstring injuries and current treatment approaches.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Acute type 3b hamstring muscle complex (HMC) injuries are common in sports.",
+                "These injuries frequently lead to prolonged recovery periods and exhibit a high rate of recurrence.",
+                "While conservative rehabilitation is standard, adjunct therapies such as radial extracorporeal shock wave therapy (rESWT) may offer additional benefits."
+            ],
+            "implications": "Given the high recurrence and prolonged recovery associated with acute type 3b hamstring injuries, physiotherapists should consider exploring adjunct therapies such as rESWT alongside standard conservative care.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Comparative effectiveness of rehabilitation protocols for hamstring injuries: A systematic review and meta-analysis.",
+            "authors": "Abdulridha et al.",
+            "journal": "Journal of bodywork and movement therapies",
+            "abstract": "Hamstring strains are prevalent in sports involving high-speed movements and high recurrence-rates (12\u00a0%-31\u00a0%). Effective rehabilitation is crucial as muscle strains occur from excessive stretching, affecting hamstring's function and leading to prolonged recovery and reinjury risks.",
+            "link": "https://doi.org/10.1016/j.jbmt.2025.06.030",
+            "year": "2025",
+            "methods": "Not applicable, this abstract presents general information and known prevalence/recurrence rates rather than describing a specific study design or sample size.",
+            "stats": "Hamstring strain recurrence rates: 12%-31%.",
+            "findings": [
+                "Hamstring strains are prevalent in sports involving high-speed movements.",
+                "These strains exhibit high recurrence rates, specifically ranging from 12% to 31%.",
+                "Muscle strains result from excessive stretching, impacting hamstring function, leading to prolonged recovery, and increasing reinjury risks."
+            ],
+            "implications": "Physiotherapists should prioritize robust and progressive rehabilitation programs that address both flexibility and strength to mitigate the high recurrence rates (12-31%) and prevent future reinjuries associated with hamstring strains.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Effects of tape and Kinesiotape on ankle range of motion, Single Leg Drop Jump and balance after running-induced fatigue: a cross-over clinical trial.",
+            "authors": "Garc\u00eda-Arrab\u00e9 et al.",
+            "journal": "PloS one",
+            "abstract": "The prevention and management of injuries in runners is a key area of research in sports medicine. Fatigue during running can lead to biomechanical imbalances and inhibition of stabilizing muscles, increasing the risk of injury. With the ankle being the most commonly injured joint in runners, rigid tape (RT) and Kinesiotape (KT) have been proposed as effective methods to improve joint stability and reduce injury risk. The objective of this study was to compare the effects of a KT and RT and no tape (control group) on lower limb balance, ankle dorsiflexion ROM, and electromyographic (EMG) activation of the pronator and supinator muscles of the ankle during a Single Leg Drop Jump (SLDJ) following a treadmill fatigue protocol. From March 1st until April 10th, 2024, a cross-over clinical trial with three conditions: control group, with a RT, and with KT was conducted with n\u2009=\u200922 well-trained runners aged 29.29 \u00b1\u2009 10.98 years. Lower limb stability, ankle dorsiflexion mobility, SLDJ parameters, and electromyographic activation of the ankle muscles (tibialis anterior (TA), extensor digitorum longus (EDL), peroneus longus (PL), and medial gastrocnemius (MG)) during a SLDJ were analyzed Pre and Post fatigue protocol, involving a 30-minute run at 85% of the maximal aerobic speed on a treadmill. Statistical analysis was conducted using repeated-measures ANOVA with Bonferroni correction. The RT bandage decreased ankle dorsiflexion ROM compared to both KT bandage and a control group during pre fatigue treadmill protocol measurements in the lunge and Y Balance Tests (specifically in the anterior direction). Group-by-time interaction showed significant differences for the lunge test (p =\u2009 0.045), SLDJ height (p =\u2009 0.014), flight time (p =\u2009 0.019) and ground contact time (p =\u2009 0.035). With the RT condition, the runners exhibited higher peak activation of the EDL muscle compared to the KT and control group during initial landing (p =\u2009 0.028), with a lesser decay in activation during take-off (p =\u2009 0.016). The KT showed a significant increase in the activation of the PL muscle during the first contact phase of the SLDJ (p =\u2009 0.046). Concerning flight and contact time during the SLDJ, both KT and RT proved beneficial in mitigating fatigue symptoms before and after the treadmill protocol. Regarding the RT bandage's specific effects on muscle activation, our findings indicate that the RT group exhibited higher peak activation of the EDL muscle compared to the KT and control groups during initial landing, with a lesser decay in activation during take-off. The KT showed a significant increase in the activation of the PL muscle during the first contact phase of the SLDJ. To conclude, our study highlights the potential benefits of both KT and RT in reducing fatigue symptoms during SLDJ. The study was registered with the Australian New Zealand Clinical Trials Registry (ACTRN12624000099527) on February 2nd, 2024 (https://anzctr.org.au/).",
+            "link": "https://doi.org/10.1371/journal.pone.0320152",
+            "year": "2025",
+            "methods": "Cross-over Clinical Trial, n=22",
+            "stats": "n=22 runners aged 29.29 \u00b1 10.98 years; lunge test (p=0.045); SLDJ height (p=0.014); flight time (p=0.019); ground contact time (p=0.035); RT-EDL peak activation (p=0.028); RT-EDL decay (p=0.016); KT-PL activation (p=0.046)",
+            "findings": [
+                "Rigid tape (RT) decreased ankle dorsiflexion ROM compared to both Kinesiotape (KT) and the control group during pre-fatigue measurements in the lunge and Y Balance Tests (anterior direction).",
+                "RT led to higher peak activation of the Extensor Digitorum Longus (EDL) muscle (p=0.028) during initial landing and a lesser decay in activation during take-off (p=0.016). KT significantly increased Peroneus Longus (PL) muscle activation (p=0.046) during the first contact phase of the Single Leg Drop Jump (SLDJ).",
+                "Both KT and RT were beneficial in mitigating fatigue symptoms related to SLDJ flight time (p=0.019) and ground contact time (p=0.035) before and after the treadmill fatigue protocol."
+            ],
+            "implications": "For runners, consider using rigid tape (RT) to potentially reduce ankle dorsiflexion ROM and enhance EDL muscle activation during landing, or kinesiotape (KT) to increase peroneus longus activation during initial contact, especially when addressing fatigue-related biomechanical changes.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "Biomechanical Changes During Running on a Lower Body Positive Pressure Treadmill in Competitive Runners.",
+            "authors": "Fohrmann et al.",
+            "journal": "Scandinavian journal of medicine & science in sports",
+            "abstract": "Lower body positive pressure treadmills (LBPPTs) offer precise body weight unloading for injury rehabilitation and performance training in runners. This study investigated biomechanical changes during running at varying body weight support (BWS) levels (0%-80%) in competitive runners, including sex-specific responses. Twenty-six runners (age: 33.6\u2009\u00b1\u20099.8\u2009years; 15 female, 11 male) completed randomized 3-min running bouts at 12\u2009km/h across nine BWS levels. Spatiotemporal parameters, plantar force, peak tibial acceleration, and running stability were measured using pressure insoles and inertial sensors placed at the tibia and foot. Our results revealed significant reductions in step rate (b\u2009=\u2009-0.24 steps\u2022min<sup>-1</sup>/%BWS, p\u2009<\u20090.001), normalized ground contact time (b\u2009=\u2009-0.001 1/%BWS, p\u2009<\u20090.001), maximum plantar force (b\u2009=\u2009-0.010 BW/%BWS, p\u2009<\u20090.001), and peak tibial acceleration (b\u2009=\u2009-0.03\u2009g/%BWS, p\u2009<\u20090.001) with increased BWS. Swing time increased (b\u2009=\u20091.50\u2009ms/%BWS, p\u2009<\u20090.001), while stance time decreased (b\u2009=\u2009-0.41\u2009ms/%BWS, p\u2009<\u20090.001). Running stability showed marginal changes (foot: b\u2009=\u2009-0.001 1/%BWS, p\u2009=\u20090.017; tibia: b\u2009=\u20090.001 1/%BWS, p\u2009=\u20090.009). Sex differences were observed in step rate (b\u2009=\u2009-6.79 steps\u2022min<sup>-1</sup>, p\u2009=\u20090.045) and maximum plantar force (b\u2009=\u2009-0.128 BW, p\u2009=\u20090.034), but there were no significant sex\u2009\u00d7\u2009BWS interaction effects for any of the investigated parameters. Findings from this study highlight the effectiveness of LBPPTs for reducing musculoskeletal loading while revealing associated gait changes. Athletes, therapists, and coaches should consider individual biomechanical responses to optimize rehabilitation and performance strategies. Future research should explore long-term adaptations and injury prevention outcomes.",
+            "link": "https://doi.org/10.1111/sms.70063",
+            "year": "2025",
+            "methods": "Experimental, n=26",
+            "stats": [
+                "Step rate: b\u2009= -0.24 steps\u2022min\u207b\u00b9/%BWS, p\u2009< 0.001",
+                "Normalized ground contact time: b\u2009= -0.001 1/%BWS, p\u2009< 0.001",
+                "Maximum plantar force: b\u2009= -0.010 BW/%BWS, p\u2009< 0.001",
+                "Peak tibial acceleration: b\u2009= -0.03\u2009g/%BWS, p\u2009< 0.001",
+                "Swing time: b\u2009= 1.50\u2009ms/%BWS, p\u2009< 0.001",
+                "Stance time: b\u2009= -0.41\u2009ms/%BWS, p\u2009< 0.001",
+                "Running stability (foot): b\u2009= -0.001 1/%BWS, p\u2009= 0.017",
+                "Running stability (tibia): b\u2009= 0.001 1/%BWS, p\u2009= 0.009",
+                "Sex difference in step rate: b\u2009= -6.79 steps\u2022min\u207b\u00b9, p\u2009= 0.045",
+                "Sex difference in maximum plantar force: b\u2009= -0.128 BW, p\u2009= 0.034"
+            ],
+            "findings": [
+                "Increased Body Weight Support (BWS) significantly reduced step rate (b\u2009= -0.24 steps\u2022min\u207b\u00b9/%BWS), maximum plantar force (b\u2009= -0.010 BW/%BWS), and peak tibial acceleration (b\u2009= -0.03\u2009g/%BWS) (all p\u2009< 0.001).",
+                "Gait timing altered with increased BWS, showing decreased normalized ground contact time (b\u2009= -0.001 1/%BWS, p\u2009< 0.001) and stance time (b\u2009= -0.41\u2009ms/%BWS, p\u2009< 0.001), while swing time increased (b\u2009= 1.50\u2009ms/%BWS, p\u2009< 0.001).",
+                "Sex differences were observed in step rate (b\u2009= -6.79 steps\u2022min\u207b\u00b9, p\u2009= 0.045) and maximum plantar force (b\u2009= -0.128 BW, p\u2009= 0.034), though no significant sex\u2009\u00d7\u2009BWS interaction effects were found."
+            ],
+            "implications": "Physiotherapists should leverage LBPPTs to precisely reduce musculoskeletal loading during rehabilitation, customising body weight support levels while closely monitoring individual biomechanical responses (e.g., step rate, plantar force) and accounting for potential sex-specific baseline differences.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "[The Influence of Different Running Shoe Technologies on the Musculoskeletal Load in Running and Injury Outcomes in Recreational Runners].",
+            "authors": "Br\u00fcggemann et al.",
+            "journal": "Sportverletzung Sportschaden : Organ der Gesellschaft fur Orthopadisch-Traumatologische Sportmedizin",
+            "abstract": "This biomechanical study of 38 male and female recreational runners demonstrates the relationship between the four most frequently used footwear technologies and the biomechanical load on the lower extremities during running. Running with the four midsole technologies ((1) neutral, cushioning running shoes (N_LS), (2) supportive, motion control running shoes (S_LS), (3) maximalist, carbon-fibre plate running shoes (M_LS), and (4) running shoes with a U-shaped midsole construction and highly cushioning foam (U_LS)) indicates a strong impact of the midsole technology on the kinetics of the lower extremities. Midsole construction and material of the four running shoe categories systematically influence joint moments at the foot, ankle joint, and knee joint, thereby modulating the mechanical load on the biological structures of the lower extremities with each running step. The data demonstrate no significant differences in running kinetics between N_LS and S_LS, while M_LS increases and U_LS decreases ankle joint and knee joint load during the stance phase.A 12-month standardized and randomized intervention trial surveyed 1697 recreational runners who used one of the four dedicated running shoe categories in more than 75% of their runs. The results demonstrate a strong relation between the development of running-associated injuries in general, and knee and Achilles tendon problems in particular, and the footwear categories. While neutral and supportive running shoes show no significant differences in the development of running-related injuries, M_LS increases and U_LS decreases this risk, especially the occurrence of knee pain. Other risk factors, such as age, gender, BMI, running distance, average speed, surface as well as foot morphology and leg axis, only had a minor effect on the development of running-related injuries in the 12-month survey. Running shoe midsole technologies offer a sophisticated causal explanation for overload injuries of biological structures in the lower extremity during running and the resulting running-related injuries.",
+            "link": "https://doi.org/10.1055/a-2563-4935",
+            "year": "2025",
+            "methods": "Biomechanical study (cross-sectional comparison, n=38) and a 12-month standardized randomized intervention trial (prospective cohort, n=1697).",
+            "stats": "Statistical significance discussed for kinetic and injury outcomes, but no p-values, confidence intervals, or effect sizes are provided.",
+            "findings": [
+                "In 38 recreational runners, maximalist, carbon-fibre plate shoes (M_LS) increase, and U-shaped highly cushioning shoes (U_LS) decrease ankle and knee joint load during the stance phase, while neutral (N_LS) and supportive (S_LS) shoes show no significant kinetic differences.",
+                "A 12-month survey of 1697 recreational runners indicated that M_LS shoes increase the risk of running-related injuries (especially knee and Achilles tendon problems), while U_LS shoes decrease this risk. N_LS and S_LS showed no significant difference in injury risk.",
+                "Other risk factors such as age, gender, BMI, running distance, average speed, surface, foot morphology, and leg axis had only a minor effect on the development of running-related injuries in the 12-month survey."
+            ],
+            "implications": "When advising runners, especially those with or at risk of knee or Achilles tendon issues, recommend caution with maximalist, carbon-fibre plate running shoes (M_LS) due to increased load and injury risk, and consider U-shaped midsole shoes (U_LS) as a potential option to reduce lower extremity load and injury risk.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "A Systematic Review of Finite Element Analysis in Running Footwear Biomechanics: Insights for Running-Related Musculoskeletal Injuries.",
+            "authors": "Song et al.",
+            "journal": "Journal of sports science & medicine",
+            "abstract": "This study presented a systematic review of recent advancements in the application of finite element (FE) methods to running and running shoe biomechanics. It focused on outlining the general approach to build foot-running shoe FE models, exploring their current applications and challenges, and providing directions for future research. The review also aimed to highlight the gap between theoretical mechanical responses in simulations and real-world manifestations of running-related musculoskeletal injuries (RRMI). A comprehensive search of electronic databases, including Web of Science, PubMed, and Scopus, identified 12 eligible articles for inclusion in this review. Current studies have examined the effects of various running shoe design features and conditions on the mechanical response of internal foot tissues using foot-running shoe FE models. These models have gradually evolved from simplified local representations to more realistic and comprehensive models, with the incorporation of experimental data enhancing simulation accuracy. However, to further improve simulation outcomes, key advancements are proposed to reduce development time and enhance model robustness. These include high-fidelity 3D model development, personalized shape transformation, AI-driven automated reconstruction, comprehensive dynamic running simulations, and improved validation methods. More importantly, future research needs to bridge the gap between FE simulations and RRMI risk by addressing the complexities of bone fracture criteria and conducting localized assessments of bone properties. Overall, this review provided valuable insights for biomedical engineers, medical professionals, and researchers, facilitating more accurate investigations of foot-running shoe FE models. Ultimately, these advancements aim to improve footwear design and training programs to reduce the risk of RRMI.",
+            "link": "https://doi.org/10.52082/jssm.2025.370",
+            "year": "2025",
+            "methods": "Systematic Review, n=12 eligible articles",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Current foot-running shoe FE models have gradually evolved from simplified local representations to more realistic and comprehensive models, with the incorporation of experimental data enhancing simulation accuracy.",
+                "Key advancements proposed to reduce development time and enhance model robustness include high-fidelity 3D model development, personalized shape transformation, AI-driven automated reconstruction, comprehensive dynamic running simulations, and improved validation methods.",
+                "A significant gap remains in directly linking FE simulations to running-related musculoskeletal injury (RRMI) risk, necessitating future research to address bone fracture criteria and conduct localized assessments of bone properties."
+            ],
+            "implications": "While finite element models are advancing footwear design, physiotherapists should continue to emphasize individualized biomechanical assessments and empirically validated training principles, as the direct link between simulation-predicted mechanical responses and real-world injury risk is still a developing area of research.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "Inconsistent Effects of Experience on Running Biomechanics May be Influenced by Study Heterogeneity and Classification Criteria: a Systematic Review and Proposal of a Revised Taxonomy.",
+            "authors": "Rabello et al.",
+            "journal": "Sports medicine - open",
+            "abstract": "Less-experienced runners are proposed to sustain more running related injuries (RRIs) than more-experienced runners because of differences in their gait biomechanics. However, the effects of running experience on biomechanics remain inconclusive. The objective of this systematic review was to examine the evidence concerning the influence of experience on running biomechanics and summarize the criteria used to classify running experience. A classification procedure for running experience was proposed based on the results.",
+            "link": "https://doi.org/10.1186/s40798-025-00870-5",
+            "year": "2025",
+            "methods": "Systematic Review, n=Not specified",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "The current evidence concerning the effects of running experience on biomechanics remains inconclusive.",
+                "The review aimed to synthesize existing literature on how experience influences running biomechanics and to identify criteria used for classifying running experience.",
+                "A new classification procedure for running experience was proposed based on the findings of the systematic review."
+            ],
+            "implications": "Physiotherapists should not solely rely on a runner's self-reported experience level to predict their gait biomechanics or risk of running-related injuries, but rather perform individualized biomechanical assessments.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "Effects of step rate based gait training on running biomechanics: A systematic review and meta-analysis.",
+            "authors": "Goss et al.",
+            "journal": "Gait & posture",
+            "abstract": "Step rate based gait training is a useful method of dealing with running related injuries, though many methods exist to increase step rate. No systematic review has been performed to evaluate the effectiveness of the different intervention strategies.",
+            "link": "https://doi.org/10.1016/j.gaitpost.2025.110009",
+            "year": "2026",
+            "methods": "Not a primary research study; identifies a gap in existing literature regarding systematic reviews of intervention strategies.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Step rate based gait training is recognized as a useful method for addressing running-related injuries.",
+                "Multiple methods exist to effectively increase a runner's step rate.",
+                "There is a current absence of a systematic review to evaluate and compare the effectiveness of these various intervention strategies for increasing step rate."
+            ],
+            "implications": "Incorporate step rate based gait training as a useful strategy for managing running-related injuries, while acknowledging that the most effective intervention strategy to increase step rate is not yet systematically established, necessitating individualized clinical decision-making.",
+            "category": "Running Injuries"
+        },
+        {
+            "title": "Minimalist Footwear and Softer Running Technique Alter Injury Location but Not Incidence in Recreational Endurance Runners.",
+            "authors": "Abran et al.",
+            "journal": "The American journal of sports medicine",
+            "abstract": "Minimalist footwear and running retraining are often recommended by running coaches to reduce the risk of running-related injuries (RRIs) in endurance runners. However, despite the growing popularity of minimalist footwear and running retraining, there is limited scientific evidence supporting their effectiveness.",
+            "link": "https://doi.org/10.1177/03635465251392242",
+            "year": "2026",
+            "methods": "Not described as this abstract does not report on a specific study's methods or design.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Minimalist footwear and running retraining are commonly recommended by running coaches to reduce the risk of running-related injuries (RRIs) in endurance runners.",
+                "Despite the growing popularity of these interventions, there is limited scientific evidence to support their effectiveness for RRI reduction."
+            ],
+            "implications": "Advise runners that while minimalist footwear and running retraining are popular recommendations, the current scientific evidence supporting their effectiveness for RRI prevention is limited, necessitating a cautious and individualized approach based on comprehensive assessment.",
+            "category": "Running Injuries"
+        },
         {
             "title": "Exercise for multidirectional instability of the shoulder.",
             "authors": "Karasuyama et al.",
