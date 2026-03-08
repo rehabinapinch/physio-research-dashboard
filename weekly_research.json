@@ -1,6 +1,56 @@
 {
-    "last_updated": "March 01, 2026",
+    "last_updated": "March 08, 2026",
     "papers": [
+        {
+            "title": "Disease severity affects knee range of motion but not strength deficits in knee osteoarthritis: a systematic review and meta-analysis.",
+            "authors": "Opara Zupan\u010di\u010d et al.",
+            "journal": "Frontiers in medicine",
+            "abstract": "To compare knee range of motion and muscle strength between individuals with symptomatic knee osteoarthritis and healthy controls, and to assess how Kellgren-Lawrence grade and measurement protocols affect these outcomes.",
+            "link": "https://doi.org/10.3389/fmed.2026.1737973",
+            "year": "2026",
+            "methods": "Comparative study design aiming to compare two groups; specific sample size not mentioned.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "This abstract outlines the study's primary objective to compare knee range of motion and muscle strength between individuals with symptomatic knee osteoarthritis and healthy controls.",
+                "A secondary objective is to assess the impact of Kellgren-Lawrence grade and various measurement protocols on these outcomes.",
+                "No specific quantitative results or findings are presented within this abstract."
+            ],
+            "implications": "Physiotherapists should ensure comprehensive assessment of both knee range of motion and muscle strength in patients with symptomatic knee osteoarthritis, considering that these metrics can be influenced by disease severity (Kellgren-Lawrence grade) and the specific measurement techniques used.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Comparative Efficacy of Buprenorphine Transdermal Patch Versus Tramadol in Postoperative Analgesia for Shoulder Arthroscopy: a Prospective, Randomized Controlled Trial.",
+            "authors": "Elsawy et al.",
+            "journal": "La Clinica terapeutica",
+            "abstract": "Shoulder arthroscopy is a regular surgery that usually results in a lot of post operative pain. Pain management is important in order to maximize both recovery and rehabilitation. Commonly applied are traditional analgesics (tramadol) but opioid analgesics can offer better pain relief with fewer side effects like buprenorphine.",
+            "link": "https://doi.org/10.7417/CT.2026.2000",
+            "year": "2026",
+            "methods": "Not described in the abstract. The text provides background information on a clinical issue rather than detailing a specific study design or sample.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Shoulder arthroscopy is a common surgical procedure frequently associated with significant post-operative pain.",
+                "Effective pain management is crucial for optimizing both recovery timelines and overall rehabilitation success.",
+                "Opioid analgesics, specifically buprenorphine, are suggested to offer superior pain relief and potentially fewer side effects when compared to traditional analgesics like tramadol."
+            ],
+            "implications": "For patients post-shoulder arthroscopy, physiotherapists should collaborate closely with medical teams to optimize pain management strategies, potentially advocating for effective analgesic options like buprenorphine, to ensure pain is adequately controlled to facilitate earlier and more effective participation in rehabilitation exercises.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "What Are the Consequences of Hamstring Injuries on Soccer Players' Match Running Performance? A Systematic Review.",
+            "authors": "Raya-Gonz\u00e1lez et al.",
+            "journal": "Sports health",
+            "abstract": "When soccer players reach high speeds, the hamstring complex is exposed to injury, with sprinting being the mechanism for 70% of injuries suffered in this muscle group.",
+            "link": "https://doi.org/10.1177/19417381251350919",
+            "year": "2026",
+            "methods": "No specific study design or sample size described in the abstract.",
+            "stats": "70% (of hamstring injuries attributed to sprinting).",
+            "findings": [
+                "The hamstring complex of soccer players is susceptible to injury when operating at high speeds.",
+                "Sprinting is the mechanism responsible for 70% of hamstring injuries in this athletic population."
+            ],
+            "implications": "Physiotherapists should integrate eccentric hamstring strengthening and progressive high-speed running or sprinting drills into injury prevention and rehabilitation programs for soccer players to directly address the primary mechanism of injury.",
+            "category": "Running Injuries"
+        },
         {
             "title": "Gait Analysis as a Measure of Physical Performance in Older Adults with Bilateral Knee Osteoarthritis.",
             "authors": "Kamal et al.",
