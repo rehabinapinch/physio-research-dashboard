@@ -1,6 +1,120 @@
 {
-    "last_updated": "March 08, 2026",
+    "last_updated": "March 15, 2026",
     "papers": [
+        {
+            "title": "Visual-feedback Balance Platform Training Combined with Conventional Rehabilitation for Balance Function after Total Knee Arthroplasty.",
+            "authors": "Du et al.",
+            "journal": "Journal of visualized experiments : JoVE",
+            "abstract": "The aim of the protocol is to investigate the feasibility and effectiveness of combining conventional rehabilitation with visual-feedback balance platform training in elderly patients undergoing primary unilateral Total Knee Arthroplasty (TKA). The method shows a single-blind, randomized controlled trial that enrolled 60 patients undergoing primary unilateral TKA (23 males, 37 females). Participants were randomly assigned to a control group (n=30; mean age 69.60 \u00b1 2.98 years) or an observation group (n=30; mean age 70.87 \u00b1 4.26 years). The control group received conventional rehabilitation, while the observation group received conventional rehabilitation plus visual-feedback balance platform training. The visual feedback intervention commenced in the second postoperative week, conducted 5 times per week for 20-30 min per session, over a 5-week period. Balance function was evaluated using platform-specific metrics: Length of Movement Trajectory (LMT) and Area of Movement Ellipse (AME). Functional mobility was assessed via the Timed Up and Go Test (TUGT), Single-Leg Stance (SLS), Timed Sit-to-Stand (STS), and Timed Stair Test (TST). Data were analyzed using independent and paired t-tests with a significance level of p < 0.05. After the 6-week program, both groups showed significant improvements across all parameters compared to baseline (p < 0.05). However, the observation group exhibited significantly superior outcomes compared to the control group. Specifically, static stability metrics (LMT, AME) and TUGT performance were significantly better in the observation group (p < 0.01). Similarly, the observation group demonstrated significant improvement in SLS, STS, and TST (p < 0.05) compared to controls. Integrating visual-feedback balance platform training with conventional rehabilitation significantly enhanced static and dynamic balance function in elderly TKA patients, offering superior efficacy to conventional rehabilitation alone.",
+            "link": "https://doi.org/10.3791/69994",
+            "year": "2026",
+            "methods": "Single-blind, Randomized Controlled Trial, n=60",
+            "stats": "Both groups showed significant improvements compared to baseline (p < 0.05). Observation group exhibited significantly superior outcomes compared to control group (p < 0.01 for LMT, AME, TUGT; p < 0.05 for SLS, STS, TST).",
+            "findings": [
+                "After 6 weeks, both conventional rehabilitation and the combined approach led to significant improvements across all balance and functional mobility parameters compared to baseline (p < 0.05).",
+                "The observation group, receiving visual-feedback balance platform training in addition to conventional rehabilitation, demonstrated significantly superior static stability (LMT, AME) and TUGT performance compared to the control group (p < 0.01).",
+                "Additionally, the observation group showed significantly greater improvement in SLS, STS, and TST (p < 0.05) compared to the control group."
+            ],
+            "implications": "Physiotherapists should consider integrating visual-feedback balance platform training into conventional rehabilitation protocols for elderly TKA patients, starting in the second postoperative week for 5 weeks (5 sessions/week, 20-30 min/session), to significantly enhance static and dynamic balance function.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "ADVANTAGES OF COMPUTER-NAVIGATED KNEE REPLACEMENT: IMPLICATIONS FOR BIOMECHANICS, PAIN MANAGEMENT, AND RECOVERY.",
+            "authors": "Tchumburidze et al.",
+            "journal": "Georgian medical news",
+            "abstract": "The knee joint, through its anatomy, biomechanics, and function, represents a highly complex mechanism. In recent years, the implantation of knee prostheses has markedly increased worldwide, driven by the need to reduce pain and improve mobility. Although total knee arthroplasty currently remains the most common treatment for advanced-stage gonarthrosis, achieving optimal surgical outcomes, restoring full functional mobility, and accurately predicting postoperative results continue to pose significant challenges.",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/41804130/",
+            "year": "2026",
+            "methods": "N/A - The abstract does not describe a specific study design or sample size.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "The knee joint is characterized as a highly complex mechanism due to its anatomy, biomechanics, and function.",
+                "Worldwide, there has been a marked increase in knee prosthesis implantations, driven by the aim to reduce pain and improve mobility.",
+                "Total knee arthroplasty (TKA) is the most common treatment for advanced-stage gonarthrosis, yet significant challenges persist in achieving optimal surgical outcomes, restoring full functional mobility, and accurately predicting postoperative results."
+            ],
+            "implications": "Physiotherapists should prioritize individualized, comprehensive post-TKA rehabilitation programs that go beyond pain management to actively address restoration of full functional mobility and set realistic, measurable goals, acknowledging the persistent challenges in predicting optimal outcomes.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effect of early hybrid assistive limb assisted rehabilitation on functional outcomes and patient satisfaction after total knee arthroplasty: a randomized controlled trial.",
+            "authors": "Watabe et al.",
+            "journal": "Journal of rehabilitation medicine",
+            "abstract": "Early rehabilitation within 4 h following total knee arthroplasty involves passive exercise with manual therapy.",
+            "link": "https://doi.org/10.2340/jrm.v58.43925",
+            "year": "2026",
+            "methods": "Not applicable; this abstract describes a clinical approach or protocol rather than reporting a research study with a specific design or sample size.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Early rehabilitation post-total knee arthroplasty (TKA) is initiated within 4 hours.",
+                "The rehabilitation protocol incorporates passive exercise.",
+                "Manual therapy is a key component of this early rehabilitation strategy."
+            ],
+            "implications": "For patients undergoing Total Knee Arthroplasty, physiotherapists should aim to commence rehabilitation, including passive exercise and manual therapy, within 4 hours post-operatively.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effect of Prebiotic Supplementation With and Without Physiotherapy on Pain and Pain Sensitivity in People with Knee Osteoarthritis.",
+            "authors": "Kouraki et al.",
+            "journal": "Nutrients",
+            "abstract": "<b>Background</b>: Emerging evidence links the gut microbiome to chronic pain processing. Inulin, a prebiotic fibre, modulates the gut microbiome, while physiotherapy-supported exercise (PSE) improves pain and function. We evaluated the effects of inulin supplementation with and without PSE on knee osteoarthritis (OA) pain. <b>Methods</b>: In a 2 \u00d7 2 factorial RCT, 117 community-dwelling adults with knee OA received 6 weeks of: (A) 20 g/day inulin, (B) digital PSE (Joint Academy\u2122), (C) inulin +PSE, or (D) 10 g/day maltodextrin. Primary outcome: pain (Numerical Rating Scale). Secondary: 30 s sit-to-stand (30-CST), timed up and go (TUG), grip strength, and quantitative sensory testing. Serum short-chain fatty acids (SCFAs) and glucagon-like peptide-1 (GLP-1) were measured. The study was not powered to detect synergistic interaction. <b>Results</b>: A total of 117 participants (58.1% female; mean \u00b1 SD age = 67.5 \u00b1 9.4 years; BMI = 29.5 \u00b1 5.3 kg/m<sup>2</sup>; NRS = 3.96 \u00b1 2.67) completed the trial. Pain improved with inulin (baseline-adjusted between-group mean difference (\u0394) = -1.11 [95%CI -2.18, -0.04], <i>p</i> = 0.045) and PSE (\u0394 = -1.55 [95%CI -2.52, -0.58], <i>p</i> = 0.002) compared to placebo, with no synergistic effect. PSE improved TUG (<i>p</i> = 0.02) and 30-CST (<i>p</i> = 0.0004), while inulin improved grip strength (<i>p</i> = 0.002), pressure pain thresholds (<i>p</i> = 0.009) and temporal summation (<i>p</i> = 0.025) compared to placebo and had significantly lower dropout rates (3.6%) compared with PSE (21% <i>p</i> < 0.01). Only inulin increased SCFA butyrate (<i>p</i> = 0.0248) and GLP-1 (<i>p</i> = 0.0109), and higher GLP-1 was associated with improved grip strength, suggesting a gut-muscle link. <b>Conclusions</b>: Inulin and PSE each produced meaningful pain reductions. Only inulin improved pain sensitivity and grip strength, the latter paralleled by increased GLP-1, and had much higher rates of retention compared to PSE.",
+            "link": "https://doi.org/10.3390/nu18050714",
+            "year": "2026",
+            "methods": "2 \u00d7 2 factorial RCT, n=117",
+            "stats": {
+                "participants": {
+                    "n_completed": 117,
+                    "female_percentage": "58.1%",
+                    "age_mean_sd": "67.5 \u00b1 9.4 years",
+                    "bmi_mean_sd": "29.5 \u00b1 5.3 kg/m\u00b2",
+                    "baseline_nrs_mean_sd": "3.96 \u00b1 2.67"
+                },
+                "pain_improvement_vs_placebo": {
+                    "inulin_delta": "-1.11 [95%CI -2.18, -0.04], p = 0.045",
+                    "pse_delta": "-1.55 [95%CI -2.52, -0.58], p = 0.002"
+                },
+                "functional_outcomes_vs_placebo": {
+                    "pse_tug_p_value": "0.02",
+                    "pse_30_cst_p_value": "0.0004"
+                },
+                "other_improvements_vs_placebo": {
+                    "inulin_grip_strength_p_value": "0.002",
+                    "inulin_pressure_pain_thresholds_p_value": "0.009",
+                    "inulin_temporal_summation_p_value": "0.025"
+                },
+                "biomarker_changes_with_inulin": {
+                    "scfa_butyrate_increase_p_value": "0.0248",
+                    "glp_1_increase_p_value": "0.0109"
+                },
+                "dropout_rates": {
+                    "inulin_percentage": "3.6%",
+                    "pse_percentage": "21%",
+                    "p_value_comparison": "< 0.01"
+                }
+            },
+            "findings": [
+                "Both inulin (baseline-adjusted mean difference (\u0394) = -1.11, p=0.045) and physiotherapy-supported exercise (PSE) (\u0394 = -1.55, p=0.002) significantly reduced knee OA pain compared to placebo, with no synergistic effect observed.",
+                "PSE significantly improved functional outcomes (TUG, p=0.02; 30-second sit-to-stand, p=0.0004), while inulin uniquely improved grip strength (p=0.002) and pain sensitivity (pressure pain thresholds p=0.009, temporal summation p=0.025).",
+                "Inulin supplementation was associated with significantly lower dropout rates (3.6%) compared to PSE (21%, p<0.01), and specifically increased SCFA butyrate (p=0.0248) and GLP-1 (p=0.0109), with higher GLP-1 linked to improved grip strength."
+            ],
+            "implications": "For physiotherapists treating knee OA, consider recommending inulin supplementation as a complementary strategy to exercise programs, especially for patients with persistent pain sensitivity or compromised grip strength, and as a potential means to improve treatment adherence.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Does physical activity provide additional benefit in individuals with rotator cuff related shoulder pain?",
+            "authors": "\u00d6zt\u00fcrk et al.",
+            "journal": "Musculoskeletal science & practice",
+            "abstract": "Rotator cuff-related shoulder pain (RCRSP) causes pain, functional loss and reduced quality of life. Although physical activity has been shown to reduce pain and improve overall well-being, its additional effect has not yet been investigated specifically in individuals with RCRSP.",
+            "link": "https://doi.org/10.1016/j.msksp.2026.103498",
+            "year": "2026",
+            "methods": "No specific study design or sample size is described in this abstract, as it serves as an introduction outlining a research problem and identifying a knowledge gap.",
+            "stats": "Descriptive Data Only",
+            "findings": [
+                "Rotator cuff-related shoulder pain (RCRSP) is a condition that leads to pain, functional impairment, and a decreased quality of life.",
+                "Although physical activity is broadly recognized for its benefits in pain reduction and overall well-being, its specific or additional effects in individuals diagnosed with RCRSP have not yet been investigated."
+            ],
+            "implications": "Physiotherapists should continue to consider the general benefits of physical activity for pain and well-being in patients with RCRSP, while acknowledging the current lack of specific research on its additional effects within this particular population.",
+            "category": "Shoulder Rehab"
+        },
         {
             "title": "Disease severity affects knee range of motion but not strength deficits in knee osteoarthritis: a systematic review and meta-analysis.",
             "authors": "Opara Zupan\u010di\u010d et al.",
