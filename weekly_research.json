@@ -9,7 +9,6 @@
             "link": "https://doi.org/10.1002/msc.70212",
             "year": "2026",
             "methods": "Not specified in abstract.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Recovery following total knee arthroplasty (TKA) is frequently incomplete."
             ],
@@ -24,15 +23,6 @@
             "link": "https://doi.org/10.1097/MD.0000000000048011",
             "year": "2026",
             "methods": "Retrospective Cohort, n=400 (200 ERAS, 200 Conventional)",
-            "stats": {
-                "Baseline Demographics": "P >.05",
-                "Length of Stay": "ERAS: 6.20 \u00b1 1.80 days vs Conventional: 9.50 \u00b1 2.30 days (P <.001)",
-                "Time to First Ambulation": "ERAS: 1.60 \u00b1 0.50 days vs Conventional: 2.80 \u00b1 0.90 days (P <.001)",
-                "Pain Intensity (VAS) Post-op Days 1 & 3": "Both P <.001 for ERAS group lower",
-                "Knee Flexion at Discharge": "ERAS: 105.30 \u00b1 9.40\u00b0 vs Conventional: 92.60 \u00b1 10.80\u00b0 (P <.001)",
-                "Overall Complication Rate": "ERAS: 6.0% vs Conventional: 8.5% (P = .358)",
-                "Patient Satisfaction": "ERAS: 92.5% vs Conventional: 78.0% (P = .001)"
-            },
             "findings": [
                 "ERAS significantly reduced hospital length of stay (6.20 days vs 9.50 days) and accelerated time to first ambulation (1.60 days vs 2.80 days) in elderly TKA patients.",
                 "Patients managed with ERAS experienced lower pain scores and achieved greater knee flexion at discharge (105.30\u00b0 vs 92.60\u00b0) compared to the conventional group.",
@@ -49,7 +39,6 @@
             "link": "https://doi.org/10.3390/medicina62030469",
             "year": "2026",
             "methods": "Retrospective Observational, n=138",
-            "stats": "71.0% (n=98) had unstable ITFs. Advanced KOA (KL III 45.9%, KL IV 48.0%) in unstable group (p < 0.001). KL grade inverse correlation with LWT (Pearson's r = -0.394, p < 0.001). Each one-grade KL increase: 3.8 mm LWT reduction (p < 0.001). KL grade independent predictor of instability (adjusted OR = 4.9, 95% CI: 2.8-8.8, p < 0.001). ROC AUC = 0.79. KL \u2265 III threshold: 95% sensitivity, 56% specificity for instability.",
             "findings": [
                 "71.0% of patients experienced unstable intertrochanteric hip fractures (ITFs), with advanced knee osteoarthritis (KOA) significantly more prevalent in this group (KL III 45.9%, KL IV 48.0%; p < 0.001).",
                 "Higher Kellgren-Lawrence (KL) grades for KOA showed a significant inverse correlation with Lateral Wall Thickness (LWT) (r = -0.394, p < 0.001), where each one-grade increase in KL severity was associated with a 3.8 mm reduction in LWT.",
@@ -66,7 +55,6 @@
             "link": "https://doi.org/10.3389/fpubh.2026.1798241",
             "year": "2026",
             "methods": "No specific study design or sample size provided in this abstract.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "High-speed running (HSR) and sprint exposure are current monitoring practices in soccer.",
                 "The direct associations between HSR/sprint exposure and injury risk in soccer remain uncertain."
@@ -82,7 +70,6 @@
             "link": "https://doi.org/10.3791/69994",
             "year": "2026",
             "methods": "Single-blind, Randomized Controlled Trial, n=60",
-            "stats": "Both groups showed significant improvements compared to baseline (p < 0.05). Observation group exhibited significantly superior outcomes compared to control group (p < 0.01 for LMT, AME, TUGT; p < 0.05 for SLS, STS, TST).",
             "findings": [
                 "After 6 weeks, both conventional rehabilitation and the combined approach led to significant improvements across all balance and functional mobility parameters compared to baseline (p < 0.05).",
                 "The observation group, receiving visual-feedback balance platform training in addition to conventional rehabilitation, demonstrated significantly superior static stability (LMT, AME) and TUGT performance compared to the control group (p < 0.01).",
@@ -99,7 +86,6 @@
             "link": "https://pubmed.ncbi.nlm.nih.gov/41804130/",
             "year": "2026",
             "methods": "N/A - The abstract does not describe a specific study design or sample size.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "The knee joint is characterized as a highly complex mechanism due to its anatomy, biomechanics, and function.",
                 "Worldwide, there has been a marked increase in knee prosthesis implantations, driven by the aim to reduce pain and improve mobility.",
@@ -116,7 +102,6 @@
             "link": "https://doi.org/10.2340/jrm.v58.43925",
             "year": "2026",
             "methods": "Not applicable; this abstract describes a clinical approach or protocol rather than reporting a research study with a specific design or sample size.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Early rehabilitation post-total knee arthroplasty (TKA) is initiated within 4 hours.",
                 "The rehabilitation protocol incorporates passive exercise.",
@@ -133,37 +118,6 @@
             "link": "https://doi.org/10.3390/nu18050714",
             "year": "2026",
             "methods": "2 \u00d7 2 factorial RCT, n=117",
-            "stats": {
-                "participants": {
-                    "n_completed": 117,
-                    "female_percentage": "58.1%",
-                    "age_mean_sd": "67.5 \u00b1 9.4 years",
-                    "bmi_mean_sd": "29.5 \u00b1 5.3 kg/m\u00b2",
-                    "baseline_nrs_mean_sd": "3.96 \u00b1 2.67"
-                },
-                "pain_improvement_vs_placebo": {
-                    "inulin_delta": "-1.11 [95%CI -2.18, -0.04], p = 0.045",
-                    "pse_delta": "-1.55 [95%CI -2.52, -0.58], p = 0.002"
-                },
-                "functional_outcomes_vs_placebo": {
-                    "pse_tug_p_value": "0.02",
-                    "pse_30_cst_p_value": "0.0004"
-                },
-                "other_improvements_vs_placebo": {
-                    "inulin_grip_strength_p_value": "0.002",
-                    "inulin_pressure_pain_thresholds_p_value": "0.009",
-                    "inulin_temporal_summation_p_value": "0.025"
-                },
-                "biomarker_changes_with_inulin": {
-                    "scfa_butyrate_increase_p_value": "0.0248",
-                    "glp_1_increase_p_value": "0.0109"
-                },
-                "dropout_rates": {
-                    "inulin_percentage": "3.6%",
-                    "pse_percentage": "21%",
-                    "p_value_comparison": "< 0.01"
-                }
-            },
             "findings": [
                 "Both inulin (baseline-adjusted mean difference (\u0394) = -1.11, p=0.045) and physiotherapy-supported exercise (PSE) (\u0394 = -1.55, p=0.002) significantly reduced knee OA pain compared to placebo, with no synergistic effect observed.",
                 "PSE significantly improved functional outcomes (TUG, p=0.02; 30-second sit-to-stand, p=0.0004), while inulin uniquely improved grip strength (p=0.002) and pain sensitivity (pressure pain thresholds p=0.009, temporal summation p=0.025).",
@@ -180,7 +134,6 @@
             "link": "https://doi.org/10.1016/j.msksp.2026.103498",
             "year": "2026",
             "methods": "No specific study design or sample size is described in this abstract, as it serves as an introduction outlining a research problem and identifying a knowledge gap.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Rotator cuff-related shoulder pain (RCRSP) is a condition that leads to pain, functional impairment, and a decreased quality of life.",
                 "Although physical activity is broadly recognized for its benefits in pain reduction and overall well-being, its specific or additional effects in individuals diagnosed with RCRSP have not yet been investigated."
@@ -196,7 +149,6 @@
             "link": "https://doi.org/10.3389/fmed.2026.1737973",
             "year": "2026",
             "methods": "Comparative study design aiming to compare two groups; specific sample size not mentioned.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "This abstract outlines the study's primary objective to compare knee range of motion and muscle strength between individuals with symptomatic knee osteoarthritis and healthy controls.",
                 "A secondary objective is to assess the impact of Kellgren-Lawrence grade and various measurement protocols on these outcomes.",
@@ -213,7 +165,6 @@
             "link": "https://doi.org/10.7417/CT.2026.2000",
             "year": "2026",
             "methods": "Not described in the abstract. The text provides background information on a clinical issue rather than detailing a specific study design or sample.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Shoulder arthroscopy is a common surgical procedure frequently associated with significant post-operative pain.",
                 "Effective pain management is crucial for optimizing both recovery timelines and overall rehabilitation success.",
@@ -230,7 +181,6 @@
             "link": "https://doi.org/10.1177/19417381251350919",
             "year": "2026",
             "methods": "No specific study design or sample size described in the abstract.",
-            "stats": "70% (of hamstring injuries attributed to sprinting).",
             "findings": [
                 "The hamstring complex of soccer players is susceptible to injury when operating at high speeds.",
                 "Sprinting is the mechanism responsible for 70% of hamstring injuries in this athletic population."
@@ -250,7 +200,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -265,7 +214,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -280,7 +228,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -295,7 +242,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -310,7 +256,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -325,7 +270,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -340,7 +284,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -355,7 +298,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Knee Rehab"
         },
         {
@@ -370,7 +312,6 @@
                 "Error analyzing text"
             ],
             "implications": "Check abstract",
-            "stats": "N/A",
             "category": "Shoulder Rehab"
         },
         {
@@ -381,7 +322,6 @@
             "link": "https://doi.org/10.1007/s00520-025-10230-4",
             "year": "2025",
             "methods": "Study design and sample size not specified in this abstract, which outlines an investigation into exercise effects.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "No findings are presented in this abstract, as it solely states the study's aim."
             ],
@@ -396,7 +336,6 @@
             "link": "https://doi.org/10.3389/fmed.2025.1673193",
             "year": "2025",
             "methods": "Network Meta-analysis, n=unspecified",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Frozen shoulder is a common condition that leads to limited shoulder mobility, pain, and significantly impacts daily function.",
                 "Acupuncture and related therapies are increasingly explored for treating frozen shoulder, but their overall clinical effectiveness remains uncertain.",
@@ -413,7 +352,6 @@
             "link": "https://doi.org/10.13703/j.0255-2930.20241122-0001",
             "year": "2025",
             "methods": "The abstract describes the objective of an investigation into an intervention but does not specify the study design (e.g., RCT, quasi-experimental) or sample size (n=).",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "This abstract solely presents the study's objective, which is to investigate the effect of relaxing needling at contracted sites of meridian-muscle regions.",
                 "The target population for this investigation is patients with post-stroke shoulder-hand syndrome (SHS) at the acute stage.",
@@ -430,7 +368,6 @@
             "link": "https://doi.org/10.47391/JPMA.25-20274",
             "year": "2025",
             "methods": "This abstract outlines the objective of a study to assess efficacy. The study design and sample size are not specified in this abstract.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "No findings are presented in this abstract, as it solely describes the study's objective.",
                 "The abstract aims to investigate the efficacy of diagnostic ultrasound-guided corticosteroid injections for subacromial/subdeltoid bursa pain."
@@ -446,7 +383,6 @@
             "link": "https://doi.org/10.1038/s41598-025-33598-z",
             "year": "2025",
             "methods": "Randomized Controlled Trial, n=48",
-            "stats": "p < 0.001 (for overall improvement), p = 0.036 (internal rotation PROM), ES = 0.627 (internal rotation PROM), p = 0.005 (GRC disability)",
             "findings": [
                 "Both multimodal physiotherapy (MPT) and intra-articular corticosteroid injection (IAI) significantly improved pain, disability, and passive range of motion (PROM) in patients with frozen shoulder after 6 weeks (p < 0.001).",
                 "MPT demonstrated a larger effect size than IAI across all measured outcomes. Specifically, MPT resulted in significantly greater improvements in internal rotation PROM (p = 0.036, effect size (ES) = 0.627) and the disability section of the global rating scale (GRC) (p = 0.005).",
@@ -463,7 +399,6 @@
             "link": "https://doi.org/10.1002/ejp.70215",
             "year": "2026",
             "methods": "No specific study design or sample size is described within this abstract; it outlines a conceptual problem and a research gap.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Frozen shoulder (FS), while traditionally seen as a localised musculoskeletal disorder, frequently presents with widespread pain.",
                 "The presence of widespread pain in FS suggests potential central sensory dysregulation.",
@@ -480,7 +415,6 @@
             "link": "https://doi.org/10.1111/sms.70043",
             "year": "2025",
             "methods": "Double-blinded, Randomized Controlled Trial, n=50",
-            "stats": "Muscle volume decreased by -9.4% (95% CI: -13.5% to -5.3%), p < 0.0001. Aponeurosis volume increased by +17.3 cm\u00b3 (95% CI: +8.3 to 26.3 cm\u00b3) at 3 months, p = 0.0005, and by +10.4 cm\u00b3 (95% CI: 5.3-15.4 cm\u00b3) at 12 months, p = 0.0003.",
             "findings": [
                 "Injured muscle volume decreased by -9.4% compared to the healthy contralateral muscle during the 3-month intervention, persisting at 12 months.",
                 "Protein supplementation (whey protein twice daily) showed no effect on muscle volume, muscle strength, or time to return to sport.",
@@ -497,7 +431,6 @@
             "link": "https://doi.org/10.2519/jospt.2025.12888",
             "year": "2025",
             "methods": "Pragmatic Randomized Clinical Trial, n=120",
-            "stats": "Mean QALY gain (group intervention) = 0.011; Mean QALY gain (usual care) = 0.010; Average cost (group intervention) = CAD $532; Average cost (usual care) = CAD $599; ICER = -$67 000/QALY.",
             "findings": [
                 "The mean QALY gain was comparable between interventions (0.011 for group intervention vs. 0.010 for usual care).",
                 "The average cost per patient was lower in the group intervention (CAD $532) compared to usual care (CAD $599).",
@@ -514,7 +447,6 @@
             "link": "https://doi.org/10.2519/jospt.2025.13321",
             "year": "2025",
             "methods": "Pragmatic parallel 2-arm, single-blinded, single site, feasibility pilot RCT, n=66.",
-            "stats": "Recruitment: 53% enrollment; Retention: 92% for randomized children; Compliance to data collection: 92-98% 4 weeks post-ED visit; Administrative/clinical information availability: 100%.",
             "findings": [
                 "Recruitment for the study was completed within 2 months, successfully enrolling 53% of eligible patients.",
                 "Retention rates were high, with 92% of randomized children completing the study, and compliance for clinical outcome data collection ranged from 92% to 98% at 4 weeks post-ED visit.",
@@ -531,7 +463,6 @@
             "link": "https://doi.org/10.1016/j.fas.2025.05.013",
             "year": "2026",
             "methods": "Meta-analysis",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Plantar fasciitis is recognized as a prevalent sports injury, primarily presenting with chronic heel pain.",
                 "Athletic taping has shown some therapeutic benefits in improving symptoms associated with plantar fasciitis.",
@@ -548,7 +479,6 @@
             "link": "https://doi.org/10.1038/s41598-025-09224-3",
             "year": "2025",
             "methods": "Randomized Controlled Trial, n=68",
-            "stats": "P < 0.05 for diaphragm movement, end-inspiratory, end-expiratory, diaphragm thickening scores, 6MWT, CAT scores, mechanical ventilation time, hospitalization time, and MV related complications incidence. P > 0.05 for mMRC questionnaire.",
             "findings": [
                 "Graded exercise rehabilitation significantly improved diaphragm movement parameters (DE, DTei, DTee, DTF) in the study group compared to the control group (P < 0.05).",
                 "The study group demonstrated significantly higher 6MWT and CAT scores (P < 0.05), and significantly reduced mechanical ventilation time, hospitalization time, and total incidence of MV related complications (all P < 0.05) post-intervention.",
@@ -565,7 +495,6 @@
             "link": "https://doi.org/10.1093/bmb/ldaf009",
             "year": "2025",
             "methods": "No specific study design or sample size mentioned; the abstract provides background information on hamstring injuries and current treatment approaches.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Acute type 3b hamstring muscle complex (HMC) injuries are common in sports.",
                 "These injuries frequently lead to prolonged recovery periods and exhibit a high rate of recurrence.",
@@ -582,7 +511,6 @@
             "link": "https://doi.org/10.1016/j.jbmt.2025.06.030",
             "year": "2025",
             "methods": "Not applicable, this abstract presents general information and known prevalence/recurrence rates rather than describing a specific study design or sample size.",
-            "stats": "Hamstring strain recurrence rates: 12%-31%.",
             "findings": [
                 "Hamstring strains are prevalent in sports involving high-speed movements.",
                 "These strains exhibit high recurrence rates, specifically ranging from 12% to 31%.",
@@ -599,7 +527,6 @@
             "link": "https://doi.org/10.1371/journal.pone.0320152",
             "year": "2025",
             "methods": "Cross-over Clinical Trial, n=22",
-            "stats": "n=22 runners aged 29.29 \u00b1 10.98 years; lunge test (p=0.045); SLDJ height (p=0.014); flight time (p=0.019); ground contact time (p=0.035); RT-EDL peak activation (p=0.028); RT-EDL decay (p=0.016); KT-PL activation (p=0.046)",
             "findings": [
                 "Rigid tape (RT) decreased ankle dorsiflexion ROM compared to both Kinesiotape (KT) and the control group during pre-fatigue measurements in the lunge and Y Balance Tests (anterior direction).",
                 "RT led to higher peak activation of the Extensor Digitorum Longus (EDL) muscle (p=0.028) during initial landing and a lesser decay in activation during take-off (p=0.016). KT significantly increased Peroneus Longus (PL) muscle activation (p=0.046) during the first contact phase of the Single Leg Drop Jump (SLDJ).",
@@ -616,18 +543,6 @@
             "link": "https://doi.org/10.1111/sms.70063",
             "year": "2025",
             "methods": "Experimental, n=26",
-            "stats": [
-                "Step rate: b\u2009= -0.24 steps\u2022min\u207b\u00b9/%BWS, p\u2009< 0.001",
-                "Normalized ground contact time: b\u2009= -0.001 1/%BWS, p\u2009< 0.001",
-                "Maximum plantar force: b\u2009= -0.010 BW/%BWS, p\u2009< 0.001",
-                "Peak tibial acceleration: b\u2009= -0.03\u2009g/%BWS, p\u2009< 0.001",
-                "Swing time: b\u2009= 1.50\u2009ms/%BWS, p\u2009< 0.001",
-                "Stance time: b\u2009= -0.41\u2009ms/%BWS, p\u2009< 0.001",
-                "Running stability (foot): b\u2009= -0.001 1/%BWS, p\u2009= 0.017",
-                "Running stability (tibia): b\u2009= 0.001 1/%BWS, p\u2009= 0.009",
-                "Sex difference in step rate: b\u2009= -6.79 steps\u2022min\u207b\u00b9, p\u2009= 0.045",
-                "Sex difference in maximum plantar force: b\u2009= -0.128 BW, p\u2009= 0.034"
-            ],
             "findings": [
                 "Increased Body Weight Support (BWS) significantly reduced step rate (b\u2009= -0.24 steps\u2022min\u207b\u00b9/%BWS), maximum plantar force (b\u2009= -0.010 BW/%BWS), and peak tibial acceleration (b\u2009= -0.03\u2009g/%BWS) (all p\u2009< 0.001).",
                 "Gait timing altered with increased BWS, showing decreased normalized ground contact time (b\u2009= -0.001 1/%BWS, p\u2009< 0.001) and stance time (b\u2009= -0.41\u2009ms/%BWS, p\u2009< 0.001), while swing time increased (b\u2009= 1.50\u2009ms/%BWS, p\u2009< 0.001).",
@@ -644,7 +559,6 @@
             "link": "https://doi.org/10.1055/a-2563-4935",
             "year": "2025",
             "methods": "Biomechanical study (cross-sectional comparison, n=38) and a 12-month standardized randomized intervention trial (prospective cohort, n=1697).",
-            "stats": "Statistical significance discussed for kinetic and injury outcomes, but no p-values, confidence intervals, or effect sizes are provided.",
             "findings": [
                 "In 38 recreational runners, maximalist, carbon-fibre plate shoes (M_LS) increase, and U-shaped highly cushioning shoes (U_LS) decrease ankle and knee joint load during the stance phase, while neutral (N_LS) and supportive (S_LS) shoes show no significant kinetic differences.",
                 "A 12-month survey of 1697 recreational runners indicated that M_LS shoes increase the risk of running-related injuries (especially knee and Achilles tendon problems), while U_LS shoes decrease this risk. N_LS and S_LS showed no significant difference in injury risk.",
@@ -661,7 +575,6 @@
             "link": "https://doi.org/10.52082/jssm.2025.370",
             "year": "2025",
             "methods": "Systematic Review, n=12 eligible articles",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Current foot-running shoe FE models have gradually evolved from simplified local representations to more realistic and comprehensive models, with the incorporation of experimental data enhancing simulation accuracy.",
                 "Key advancements proposed to reduce development time and enhance model robustness include high-fidelity 3D model development, personalized shape transformation, AI-driven automated reconstruction, comprehensive dynamic running simulations, and improved validation methods.",
@@ -678,7 +591,6 @@
             "link": "https://doi.org/10.1186/s40798-025-00870-5",
             "year": "2025",
             "methods": "Systematic Review, n=Not specified",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "The current evidence concerning the effects of running experience on biomechanics remains inconclusive.",
                 "The review aimed to synthesize existing literature on how experience influences running biomechanics and to identify criteria used for classifying running experience.",
@@ -695,7 +607,6 @@
             "link": "https://doi.org/10.1016/j.gaitpost.2025.110009",
             "year": "2026",
             "methods": "Not a primary research study; identifies a gap in existing literature regarding systematic reviews of intervention strategies.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Step rate based gait training is recognized as a useful method for addressing running-related injuries.",
                 "Multiple methods exist to effectively increase a runner's step rate.",
@@ -712,7 +623,6 @@
             "link": "https://doi.org/10.1177/03635465251392242",
             "year": "2026",
             "methods": "Not described as this abstract does not report on a specific study's methods or design.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Minimalist footwear and running retraining are commonly recommended by running coaches to reduce the risk of running-related injuries (RRIs) in endurance runners.",
                 "Despite the growing popularity of these interventions, there is limited scientific evidence to support their effectiveness for RRI reduction."
@@ -728,7 +638,6 @@
             "link": "https://doi.org/10.1002/14651858.CD015450.pub2",
             "year": "2026",
             "methods": "No specific study design or sample size described, this abstract provides background information and highlights a research gap.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Multidirectional shoulder instability is characterized by symptomatic subluxation or dislocation in at least two directions.",
                 "This condition frequently affects young, active individuals.",
@@ -745,7 +654,6 @@
             "link": "https://doi.org/10.1186/s13018-025-06608-z",
             "year": "2026",
             "methods": "Not applicable; this abstract identifies a research gap rather than presenting a specific study design or sample size.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Arthroscopic lateral retinacular release (LRR) is recognized as an effective treatment for lateral patellar compression syndrome (LPCS).",
                 "Postoperative rehabilitation is crucial for optimal recovery following LRR for LPCS.",
@@ -762,7 +670,6 @@
             "link": "https://doi.org/10.1097/MD.0000000000047547",
             "year": "2026",
             "methods": "Not applicable; this abstract describes a clinical problem and a knowledge gap regarding current treatment efficacy, rather than presenting a specific study design or sample.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "Hemiplegic shoulder pain (HSP) is a common complication after stroke.",
                 "HSP significantly impairs the rehabilitation process.",
@@ -795,7 +702,6 @@
             "link": "https://doi.org/10.1177/10806032251387991",
             "year": "2025",
             "methods": "Systematic Review, n=298 original research articles.",
-            "stats": "P<0.001 (articles with female first authors had a higher proportion of female study participants); P=0.592 (proportion of female study participants similar between female and male last authors).",
             "findings": [
                 "Females comprised 36% of climber participants across 266 articles that reported gender, with 31% of articles having all-male participants and 3% all-female.",
                 "Female climbers were most underrepresented in chronic climbing injuries (13% female), imaging studies (15%), and injury rehabilitation (20%).",
@@ -812,7 +718,6 @@
             "link": "https://doi.org/10.1002/jfa2.70125",
             "year": "2026",
             "methods": "Study design and sample size not explicitly stated in this abstract.",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "This abstract outlines the background and aim of the study, but does not present any findings or results."
             ],
@@ -827,7 +732,6 @@
             "link": "https://doi.org/10.3389/fspor.2025.1694925",
             "year": "2025",
             "methods": "Scoping Systematic Review, n=2,476 (pooled sample from 22 studies)",
-            "stats": "Descriptive Data Only",
             "findings": [
                 "22 studies (pooled sample \u2248 2,476 participants), predominantly published in the last decade, were included.",
                 "Research primarily focused on physiology and biomarkers (10 studies) and nutrition/body composition (6 studies), with fewer investigations into injuries (4 studies) or performance (3 studies).",
@@ -849,7 +753,6 @@
                 "No significant differences were found in resting systolic or diastolic blood pressure adaptations between protocols."
             ],
             "implications": "LL-BFR can be safely prescribed for KOA patients to achieve similar vascular adaptations as moderate-load training without adverse effects on systemic blood pressure.",
-            "stats": "9-week protocol; non-significant difference in LOP and BP between groups.",
             "category": "Knee Rehab"
         },
         {
@@ -866,7 +769,6 @@
                 "Improvements in gait and grip strength were clinically equivalent to non-sarcopenic peers."
             ],
             "implications": "TKA combined with rehabilitation is highly effective for reversing sarcopenia; clinicians should focus on muscle mass index as a primary indicator of recovery.",
-            "stats": "SMI aMD: 0.31; 83.3% recovery rate; 12-month follow-up.",
             "category": "Knee Rehab"
         },
         {
@@ -882,7 +784,6 @@
                 "Interventions lacking active exercise or strength training resulted in zero strength gains."
             ],
             "implications": "Prioritize active resistance training over passive modalities, specifically targeting external rotation to maximize strength recovery in RCRSP.",
-            "stats": "ER SMD: 0.56 (95% CI: 0.39-0.74); Abduction SMD: 0.47; p < 0.01.",
             "category": "Shoulder Rehab"
         },
         {
@@ -898,7 +799,6 @@
                 "Massage group experienced superior pain reduction (p=0.003) and shoulder ROM gains."
             ],
             "implications": "Manual myofascial release should be prioritized over self-foam rolling when deeper tissue inhibition is needed for Upper Crossed Syndrome.",
-            "stats": "RSA p=0.031; Pain p=0.003; 12-week intervention.",
             "category": "Physiotherapy General"
         },
         {
@@ -914,7 +814,6 @@
                 "Knee ROM at discharge is a critical predictor; every 1 degree extra increases high-quality recovery odds by 17.3%."
             ],
             "implications": "Incorporate video-based education early to improve patient adherence and discharge range of motion.",
-            "stats": "ROM OR: 1.173 (17.3% gain per degree); Age OR: 0.828; p < 0.001.",
             "category": "Knee Rehab"
         },
         {
@@ -930,7 +829,6 @@
                 "Restricted extension impacted kinematic patterns during gait, running, and jumping."
             ],
             "implications": "Minimize the use of restrictive bracing to allow for early return of full knee extension, which is vital for normal running mechanics.",
-            "stats": "Significant extension deficits at 6-month follow-up in braced cohorts.",
             "category": "Knee Rehab"
         },
         {
@@ -946,7 +844,6 @@
                 "Overuse injuries specifically were reduced by 54% (p = 0.001)."
             ],
             "implications": "Prescribe a 15-30 minute online-guided routine focusing on core and neuromuscular control 2x/week to effectively halve injury risk in recreational runners.",
-            "stats": "IRR 0.53 (95% CI: 0.37-0.77); 47% Risk Reduction.",
             "category": "Running Injuries"
         },
         {
@@ -962,7 +859,6 @@
                 "Runners with normal BMI (19-25) and no history had only a 43% risk."
             ],
             "implications": "Screen for the 'BMI + History' combined phenotype; these patients require more conservative volume progression than those with just one risk factor.",
-            "stats": "71% cumulative incidence risk in high-risk group vs 43% in low-risk.",
             "category": "Running Injuries"
         },
         {
@@ -978,7 +874,6 @@
                 "Adolescent climbers (15-19 years) show an 11.3x higher injury risk than younger climbers (11-14 years), marking a critical window for overuse intervention."
             ],
             "implications": "Implement strict volume monitoring for adolescent climbers (ages 15-19), as this is the peak window for overuse injury development.",
-            "stats": "11.3x higher risk in late adolescence; Overuse > Acute prevalence.",
             "category": "Climbing Injuries"
         }
     ]
