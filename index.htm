@@ -264,37 +264,53 @@
             filtered.forEach(renderCard);
         }
 
-        function renderCard(paper) {
-            const container = document.getElementById('app');
-            const card = document.createElement('div');
-            card.className = 'card';
+    function renderCard(paper) {
+    const container = document.getElementById('app');
+    const card = document.createElement('div');
+    card.className = 'card';
 
-            let findingsHTML = Array.isArray(paper.findings) ? paper.findings.map(f => `<li>${f}</li>`).join('') : `<li>${paper.findings}</li>`;
+    // 1. CLEANER METADATA: 
+    // If methods is the "Not specified" string, we just show the Authors/Year
+    const methodsDisplay = (paper.methods && !paper.methods.includes("Not specified")) 
+        ? `<b>${paper.methods}</b> • ` 
+        : "";
 
-            card.innerHTML = `
-                    <span class="tag">${paper.category}</span>
-                    <h2>${paper.title}</h2>
-                    <div class="meta"><b>${paper.methods || "Methodology not specified"}</b> • ${paper.authors} (${paper.year})</div>
+    // 2. CLEANER ABSTRACT:
+    // If abstract is missing, we don't render the abstract section at all
+    const hasValidAbstract = paper.abstract && !paper.abstract.includes("Not specified");
+    const abstractHTML = hasValidAbstract ? `
+        <div class="section">
+            <div class="section-title">📄 Abstract</div>
+            <div class="abstract-box">${paper.abstract}</div>
+        </div>` : "";
 
-                    <div class="section">
-                        <div class="section-title">💡 Findings</div>
-                        <ul>${findingsHTML}</ul>
-                    </div>
+    let findingsHTML = Array.isArray(paper.findings) ? 
+        paper.findings.map(f => `<li>${f}</li>`).join('') : 
+        `<li>${paper.findings}</li>`;
 
-                    <div class="section">
-                        <div class="section-title">✅ Practice Implication</div>
-                        <div class="implication-box">${paper.implications}</div>
-                    </div>
+    card.innerHTML = `
+            <span class="tag">${paper.category}</span>
+            <h2>${paper.title}</h2>
+            <div class="meta" style="color: var(--text-main); font-size: 0.9em;">
+                ${methodsDisplay}${paper.authors} (${paper.year})
+            </div>
 
-                    <div class="section">
-                        <div class="section-title">📄 Abstract</div>
-                        <div class="abstract-box">${paper.abstract}</div>
-                    </div>
+            <div class="section">
+                <div class="section-title">💡 Findings</div>
+                <ul>${findingsHTML}</ul>
+            </div>
 
-                    <a href="${paper.link}" target="_blank" class="read-btn">🔗 Read Full Study</a>
-                `;
-            container.appendChild(card);
-        }
+            <div class="section">
+                <div class="section-title">✅ Practice Implication</div>
+                <div class="implication-box">${paper.implications}</div>
+            </div>
+
+            ${abstractHTML}
+
+            <a href="${paper.link}" target="_blank" class="read-btn">🔗 Read Full Study</a>
+        `;
+    container.appendChild(card);
+}
 
         async function loadData() {
             try {
