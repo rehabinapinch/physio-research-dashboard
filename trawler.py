@@ -82,22 +82,31 @@ def get_pubmed_papers(query, max_results=10):
         return []
 
 def analyze_with_gemini(paper_text):
-    # TOKEN OPTIMIZATION: Skip API call if abstract is missing info
-    if "Not specified in abstract" in paper_text or len(paper_text) < 50:
-        print("      ⏭️ Skipping Gemini: Abstract contains insufficient data.")
+    # 1. TOKEN OPTIMIZATION: Use a stricter character limit (200 chars)
+    # and check for common 'empty' phrases from PubMed.
+    if not paper_text or "Not specified" in paper_text or len(paper_text) < 200:
+        print(f"      ⏭️ Skipping Gemini: Abstract too short ({len(paper_text)} chars).")
         return {
-            "methods": "N/A - Abstract missing details", 
-            "findings": ["Abstract not available for analysis"], 
-            "implications": "Review full text for clinical utility."
+            "methods": "Information not in abstract", 
+            "findings": ["No abstract available for analysis."], 
+            "implications": "Clinical details require full-text access."
         }
 
+    # 2. THE PROMPT: Add a instruction to be brief to save output tokens
     prompt = f"""
-    You are a Sports Scientist. Analyze this abstract.
+    You are a Sports Scientist. Analyze this abstract concisely.
     Abstract: "{paper_text}"
-    Output strictly VALID JSON with these fields:
-    - "methods": Briefly state study design and sample size.
-    - "findings": 2-3 bullet points.
-    - "implications": One actionable clinical tip for a physiotherapist.
+    
+    Rules:
+    - If methods aren't clear, just write "Study design not stated".
+    - Be extremely brief (max 15 words per field).
+    
+    Output strictly VALID JSON:
+    {{
+      "methods": "Short design & sample size",
+      "findings": ["Point 1", "Point 2"],
+      "implications": "One actionable clinical tip for a physiotherapist"
+    }}
     """
     try:
         response = model.generate_content(prompt)
