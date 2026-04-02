@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:title" content="Physio Research Dashboard | Weekly Sports Science Breakdowns">
-<meta property="og:description" content="A live dashboard tracking the latest 2026 research in running, climbing, and ACL rehab. Updated weekly with clinical implications and key stats.">
-<meta property="og:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
-<meta property="og:url" content="https://rehabinapinch.github.io/physio-research-dashboard/">
-<meta property="og:type" content="website">
+    <meta property="og:title" content="Physio Research Dashboard | Weekly Sports Science Breakdowns">
+    <meta property="og:description" content="A live dashboard tracking the latest 2026 research in running, climbing, and ACL rehab. Updated weekly with clinical implications.">
+    <meta property="og:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
+    <meta property="og:url" content="https://rehabinapinch.github.io/physio-research-dashboard/">
+    <meta property="og:type" content="website">
 
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Physio Research Dashboard">
-<meta name="twitter:description" content="Weekly sports physio research breakdowns for clinicians and athletes.">
-<meta name="twitter:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Physio Research Dashboard">
+    <meta name="twitter:description" content="Weekly sports physio research breakdowns for clinicians and athletes.">
+    <meta name="twitter:image" content="https://rehabinapinch.github.io/physio-research-dashboard/preview_card.png">
     <title>Waldo's Physio Journal Club</title>
     <style>
         :root {
@@ -42,12 +42,12 @@
             box-shadow: 0 4px 20px rgba(0,0,0,0.03);
         }
 
-            .header h1 {
-                color: var(--primary-dark);
-                font-size: 2.2em;
-                margin: 0 0 10px;
-                font-weight: 800;
-            }
+        .header h1 {
+            color: var(--primary-dark);
+            font-size: 2.2em;
+            margin: 0 0 10px;
+            font-weight: 800;
+        }
 
         .status-bar {
             display: inline-flex;
@@ -84,11 +84,11 @@
             transition: all 0.2s;
         }
 
-            .filter-btn:hover, .filter-btn.active {
-                background: var(--primary);
-                color: white;
-                transform: translateY(-2px);
-            }
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
 
         .grid {
             column-count: 3;
@@ -98,15 +98,11 @@
         }
 
         @media (max-width: 1000px) {
-            .grid {
-                column-count: 2;
-            }
+            .grid { column-count: 2; }
         }
 
         @media (max-width: 600px) {
-            .grid {
-                column-count: 1;
-            }
+            .grid { column-count: 1; }
         }
 
         .card {
@@ -123,10 +119,10 @@
             box-sizing: border-box;
         }
 
-            .card:hover {
-                transform: translateY(-3px);
-                box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-            }
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
 
         .tag {
             background: rgba(74, 144, 217, 0.1);
@@ -168,16 +164,6 @@
             margin-bottom: 6px;
         }
 
-        .stat-box {
-            background: #F4FAFD;
-            color: var(--primary-dark);
-            padding: 10px;
-            border-radius: 8px;
-            font-weight: 600;
-            font-size: 0.9em;
-            border-left: 3px solid var(--primary);
-        }
-
         .implication-box {
             background: #F0FDF4;
             color: #15803D;
@@ -215,15 +201,9 @@
             margin-top: 15px;
         }
 
-            .read-btn:hover {
-                background: var(--primary-dark);
-            }
+        .read-btn:hover { background: var(--primary-dark); }
 
-        ul {
-            padding-left: 18px;
-            margin: 5px 0;
-        }
-
+        ul { padding-left: 18px; margin: 5px 0; }
         li {
             margin-bottom: 6px;
             line-height: 1.4;
@@ -248,6 +228,7 @@
             <button class="filter-btn" onclick="filterCards('Climbing Injuries')">🧗 Climbing</button>
             <button class="filter-btn" onclick="filterCards('Shoulder Rehab')">💪 Shoulder</button>
             <button class="filter-btn" onclick="filterCards('Knee Rehab')">🦵 Knee</button>
+            <button class="filter-btn" onclick="filterCards('Priority Author')">⭐ Priority Authors</button>
         </div>
     </div>
 
@@ -260,14 +241,13 @@
             const lastDate = new Date(lastDateStr);
             const nextDate = new Date(lastDate);
             nextDate.setDate(lastDate.getDate() + 7);
-            const diffDays = Math.ceil(Math.abs(nextDate - new Date()) / (1000 * 60 * 60 * 24));
+            const diffDays = Math.ceil((nextDate - new Date()) / (1000 * 60 * 60 * 24));
             document.getElementById('countdown').innerText = (diffDays > 0 ? diffDays : 0) + " days";
         }
 
         function filterCards(category) {
             document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-            // Use event to find the clicked button if available
-            if (event && event.target) {
+            if (event && event.target && event.target.classList.contains('filter-btn')) {
                 event.target.classList.add('active');
             }
 
@@ -297,11 +277,6 @@
                     <div class="meta"><b>${paper.methods || "Methodology not specified"}</b> • ${paper.authors} (${paper.year})</div>
 
                     <div class="section">
-                        <div class="section-title">📊 Key Stats</div>
-                        <div class="stat-box">${paper.stats}</div>
-                    </div>
-
-                    <div class="section">
                         <div class="section-title">💡 Findings</div>
                         <ul>${findingsHTML}</ul>
                     </div>
@@ -329,8 +304,6 @@
                 allPapers = dataset.papers;
                 document.getElementById('lastUpdated').innerText = "Updated: " + dataset.last_updated;
                 startTimer(dataset.last_updated);
-
-                // Re-calling filter with 'all' ensures the list is populated immediately
                 filterCards('all');
 
             } catch (error) {
@@ -339,7 +312,6 @@
             }
         }
 
-        // Start loading data as soon as the script runs
         loadData();
     </script>
 </body>
