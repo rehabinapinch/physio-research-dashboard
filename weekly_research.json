@@ -1,6 +1,130 @@
 {
-    "last_updated": "March 29, 2026",
+    "last_updated": "April 05, 2026",
     "papers": [
+        {
+            "title": "Impact of Telerehabilitation on Rehabilitation Efficacy and Patient Satisfaction After Knee Surgery: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+            "authors": "Wang et al.",
+            "journal": "Journal of medical Internet research",
+            "abstract": "Postoperative rehabilitation after knee surgery is crucial for functional recovery, but traditional in-person methods can impose burdens on patients, particularly those with mobility limitations or living remotely. Telerehabilitation, leveraging digital platforms, offers a potential alternative, yet its comparative efficacy and acceptability remain debated, especially across surgery types.",
+            "link": "https://doi.org/10.2196/76844",
+            "year": "2025",
+            "methods": "Study design not stated",
+            "findings": [
+                "Traditional in-person rehab burdens patients (mobility/remote).",
+                "Telerehabilitation is a potential alternative.",
+                "Its comparative efficacy and acceptability are debated."
+            ],
+            "implications": "Consider telerehab, but acknowledge its debated efficacy and varying patient acceptability.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effects and safety of vibration therapy in knee osteoarthritis rehabilitation: an umbrella review of systematic reviews.",
+            "authors": "Peng et al.",
+            "journal": "PeerJ",
+            "abstract": "Knee osteoarthritis (KOA) is a prevalent degenerative joint disease characterized by pain, stiffness, and limited mobility, substantially impairing quality of life. Vibration therapy has gained attention as a promising nonpharmacological intervention for KOA management. However, existing systematic reviews report inconsistent findings regarding its efficacy and safety. This umbrella review synthesizes evidence from published systematic reviews to provide a comprehensive evaluation of vibration therapy in KOA.",
+            "link": "https://doi.org/10.7717/peerj.20455",
+            "year": "2025",
+            "methods": "Umbrella review. Sample size not stated.",
+            "findings": [
+                "Study's findings not presented.",
+                "Prior reviews report inconsistent efficacy/safety."
+            ],
+            "implications": "Cannot draw clinical implications without study results.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Swedish massage for shoulder function and postmastectomy pain syndrome: randomised controlled trial.",
+            "authors": "Rostami et al.",
+            "journal": "BMJ supportive & palliative care",
+            "abstract": "To investigate the impact of massage therapy on pain syndrome and shoulder function in women undergoing mastectomy, specifically those referred to oncology centres in Kerman.",
+            "link": "https://doi.org/10.1136/spcare-2025-005760",
+            "year": "2025",
+            "methods": "Information not in abstract",
+            "findings": [
+                "No abstract available for analysis."
+            ],
+            "implications": "Clinical details require full-text access.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Effect of early shoulder functional exercise timing on drainage duration and subcutaneous seroma formation in overweight women undergoing modified radical mastectomy for breast cancer.",
+            "authors": "Wang et al.",
+            "journal": "Medicine",
+            "abstract": "This retrospective study investigates the impact of early postoperative shoulder functional exercise timing on drainage duration and subcutaneous seroma formation in overweight women undergoing modified radical mastectomy (MRM) for breast cancer. A total of 194 overweight breast cancer patients (BMI\u2005>\u200524) who underwent MRM between January 2023 and December 2024 were included. Patients were divided into a study group (n\u2005=\u2005101, shoulder exercise initiated on postoperative day 7) and a control group (n\u2005=\u200593, exercise started on day 3). Key outcomes included postoperative drainage volume, drainage tube retention duration, and incidence of subcutaneous seroma. Additional visual analyses and subgroup analyses by BMI were performed. A multivariable logistic regression model was constructed to identify independent predictors of seroma formation. The study group exhibited significantly lower postoperative drainage volume (229.5\u2005\u00b1\u200582.2 vs 581.3\u2005\u00b1\u2005115.7\u2009mL, P\u2005<\u2005.001), shorter drainage tube retention duration (6.8\u2005\u00b1\u20050.8 vs 8.3\u2005\u00b1\u20050.7 days, P\u2005<\u2005.001), and a lower incidence of subcutaneous seroma (11.9% vs 30.1%, \u03c72\u2005=\u20058.850, P\u2005=\u2005.003). Visual comparisons confirmed more favorable distribution patterns in the study group. BMI subgroup analysis revealed that patients with BMI\u2005\u2265\u200527.0\u2009kg/m2 had worse outcomes, and benefited more from delayed exercise. Multivariate analysis identified early exercise initiation (odds ratio (OR)\u2005=\u20054.14, P\u2005=\u2005.004), higher BMI (OR\u2005=\u20051.20, P\u2005=\u2005.031), and advanced tumor stage (OR\u2005=\u20051.92, P\u2005=\u2005.015) as independent risk factors for seroma. Delaying shoulder functional exercise initiation to postoperative day 7 significantly reduces drainage volume, shortens drainage tube retention, and lowers the risk of seroma in overweight women following mastectomy. These benefits are particularly pronounced in patients with higher BMI. Adjusting rehabilitation protocols based on body habitus may improve postoperative recovery and warrants broader clinical adoption.",
+            "link": "https://doi.org/10.1097/MD.0000000000045808",
+            "year": "2025",
+            "methods": "Retrospective study, 194 overweight women (BMI > 24) post-MRM, two exercise timing groups.",
+            "findings": [
+                "Delayed exercise (day 7) reduced drainage volume and tube retention.",
+                "Delayed exercise also significantly lowered seroma incidence, particularly for higher BMI."
+            ],
+            "implications": "Delay shoulder exercise to day 7 post-MRM for overweight women, especially high BMI.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "2025 Neer Award Part 2: the PMADS trial: personality, motivation, and attitude determinants of success with rehabilitation for reverse total shoulder arthroplasty.",
+            "authors": "Garrigues et al.",
+            "journal": "Journal of shoulder and elbow surgery",
+            "abstract": "A subset of patients from \"Part 1- The SHORT trial: Multicenter, Randomized, Controlled Trial of Surgeon-Directed Home Therapy vs. Outpatient Rehabilitation by Physical Therapists for Reverse Total Shoulder Arthroplasty\" were analyzed for various personality, psychological, and health motivation scores to elucidate if these characteristics might influence success with either clinic-based physical therapy or surgeon-directed home therapy (HT).",
+            "link": "https://doi.org/10.1016/j.jse.2025.10.012",
+            "year": "2026",
+            "methods": "Study design not stated",
+            "findings": [],
+            "implications": "No findings provided to derive clinical implications.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "Effect Analysis of Early Rehabilitation Therapy Combined With Repetitive Transcranial Magnetic Stimulation on Postoperative Rehabilitation of Sports Knee Injury.",
+            "authors": "Feng et al.",
+            "journal": "Sports medicine and arthroscopy review",
+            "abstract": "To analyze the effectiveness of combined early rehabilitation therapy and repetitive transcranial magnetic stimulation (rTMS) in the postoperative rehabilitation of patients with sports knee injuries (SKIs).",
+            "link": "https://doi.org/10.1097/JSA.0000000000000402",
+            "year": "2025",
+            "methods": "Study design not stated",
+            "findings": [
+                "No findings presented"
+            ],
+            "implications": "Abstract is objective only; no clinical implications can be drawn yet.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Effects of medical training therapy on injury rehabilitation and sports-specific performance in elite rock climbers: A randomized controlled trial.",
+            "authors": "Qu et al.",
+            "journal": "Injury",
+            "abstract": "Medical training therapy (MTT) is an advanced, individualized rehabilitation approach that integrates multiple methods to improve physical function. It is widely applied to rehabilitate sports injuries. This randomized study evaluated MTT's effects on physical injury rehabilitation, mental function, and athletic performance in elite rock climbers.",
+            "link": "https://doi.org/10.1016/j.injury.2024.112134",
+            "year": "2025",
+            "methods": "Randomized study; sample size not stated.",
+            "findings": [
+                "No findings presented in abstract."
+            ],
+            "implications": "No clinical tip can be derived without study findings.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "Use of extracorporeal shockwave therapy combined with standard rehabilitation following anterior cruciate ligament reconstruction: a systematic review with meta-analysis.",
+            "authors": "Shin et al.",
+            "journal": "BMC musculoskeletal disorders",
+            "abstract": "Anterior cruciate ligament (ACL) injuries are one of the most common sports injuries, accounting for approximately 50% of knee-related injuries. Extracorporeal shockwave therapy (ESWT), in the form of the radial (R-SWT) or focused shockwave (F-SWT), has been shown effective in treating various orthopaedic conditions. Recently, studies have investigated whether ESWT combined with standard rehabilitation may improve outcomes following anterior cruciate ligament reconstruction (ACLR). Therefore, this study aimed to determine whether ESWT can improve clinical outcomes following ACLR.",
+            "link": "https://doi.org/10.1186/s12891-025-08277-9",
+            "year": "2025",
+            "methods": "Study design not stated",
+            "findings": [],
+            "implications": "Monitor ESWT research for potential ACLR rehabilitation integration.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "The effects of telehealth running gait retraining on biomechanics, pain, and function in patients with lower extremity injuries: A randomized clinical trial.",
+            "authors": "Florkiewicz et al.",
+            "journal": "Clinical biomechanics (Bristol, Avon)",
+            "abstract": "In-clinic gait retraining has been effective in modifying suspected biomechanical risk factors for running injury, but its feasibility is often limited by multiple clinic visits. This randomized clinical trial investigated the effects of a telehealth-based gait retraining intervention on running biomechanics, pain, and function in previously injured runners.",
+            "link": "https://doi.org/10.1016/j.clinbiomech.2024.106381",
+            "year": "2025",
+            "methods": "Randomized clinical trial.",
+            "findings": [],
+            "implications": "Explore telehealth options for accessible gait retraining in injured runners.",
+            "category": "Running Injuries"
+        },
         {
             "title": "Efficacy of Sling Exercise Training Compared to Standard Physiotherapy to Improve Muscle Strength, Joint Range of Motion and Functional Outcomes Following Total Knee Arthroplasty: A Pilot Randomized Controlled Trial.",
             "authors": "Rajaeian et al.",
