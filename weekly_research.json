@@ -1,6 +1,35 @@
 {
-    "last_updated": "April 05, 2026",
+    "last_updated": "April 12, 2026",
     "papers": [
+        {
+            "title": "The impact of the Otago exercise program on knee joint function recovery, balance, fall efficacy and functional capacity in patients undergoing Total knee arthroplasty: a systematic review and meta-analysis.",
+            "authors": "Zhang et al.",
+            "journal": "Geriatric nursing (New York, N.Y.)",
+            "abstract": "Altered muscle activation patterns are observed in patients undergoing total knee arthroplasty (TKA), resulting in reduced knee joint function, impaired balance, and an increased risk of falls during postoperative recovery. The Otago Exercise Program (OEP) is a rehabilitative intervention designed to enhance muscle strength and improve balance. However, its efficacy in restoring knee joint function and balance in TKA patients remains unclear, with limited clinical evidence. This systematic review and meta-analysis aim to evaluate the effectiveness of OEP on knee joint function, balance, and other recovery outcomes in TKA patients while identifying its essential exercise components.",
+            "link": "https://doi.org/10.1016/j.gerinurse.2026.103880",
+            "year": "2026",
+            "methods": "Systematic review and meta-analysis.",
+            "findings": [
+                "No findings presented.",
+                "This abstract outlines study aims."
+            ],
+            "implications": "Await robust evidence on OEP efficacy before widespread TKA implementation.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Facilitators and barriers to rehabilitation exercise adherence among patients after total hip and total knee arthroplasty: a qualitative meta-synthesis.",
+            "authors": "Chen et al.",
+            "journal": "BMC musculoskeletal disorders",
+            "abstract": "This study aimed to systematically search and synthesize qualitative research data regarding the facilitators and barriers affecting rehabilitation exercise adherence in patients following Total Hip Arthroplasty (THA) and Total Knee Arthroplasty (TKA).\u200b METHODS: Relevant qualitative studies were retrieved from both English and Chinese databases, including PubMed, EMBASE, CINAHL, Web of Science, Cochrane Library, CNKI, Wanfang Database, VIP Database, and China Biology Medicine database. The search period spanned from the establishment of each database to September 1, 2025. The PICO framework was adopted to develop the search strategy. Two researchers independently conducted literature screening, data extraction, and quality assessment. The quality of the included studies was evaluated using the qualitative research appraisal criteria proposed by the Joanna Briggs Institute (JBI). Data synthesis was conducted in accordance with the thematic synthesis method proposed by Thomas & Harden (2008).",
+            "link": "https://doi.org/10.1186/s12891-026-09789-8",
+            "year": "2026",
+            "methods": "Qualitative systematic review. Sample size of included studies/patients not stated.",
+            "findings": [
+                "No findings presented in this abstract."
+            ],
+            "implications": "No specific clinical tips derivable as findings are not presented.",
+            "category": "Knee Rehab"
+        },
         {
             "title": "Impact of Telerehabilitation on Rehabilitation Efficacy and Patient Satisfaction After Knee Surgery: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
             "authors": "Wang et al.",
