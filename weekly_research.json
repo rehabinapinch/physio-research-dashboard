@@ -1,6 +1,36 @@
 {
-    "last_updated": "April 19, 2026",
+    "last_updated": "April 26, 2026",
     "papers": [
+        {
+            "title": "Effects of aquatic rehabilitation on symptoms, physical function, and quality of life in individuals with knee joint dysfunction: a meta-analysis.",
+            "authors": "Jiang et al.",
+            "journal": "Frontiers in physiology",
+            "abstract": "Knee joint dysfunction, including osteoarthritis, ligament injury, and post-surgical conditions, impairs symptoms, physical function, and quality of life. Aquatic rehabilitation leverages water's buoyancy, resistance, and hydrostatic properties to reduce joint load and facilitate exercise, but evidence on its effectiveness across populations and intervention parameters is inconsistent.",
+            "link": "https://doi.org/10.3389/fphys.2026.1804926",
+            "year": "2026",
+            "methods": "Study design not stated",
+            "findings": [
+                "Knee dysfunction impairs symptoms, physical function, and quality of life.",
+                "Aquatic rehab effectiveness evidence is inconsistent across populations."
+            ],
+            "implications": "Tailor aquatic rehabilitation interventions considering individual patient needs and specific parameters.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Summary of the best evidence for physical therapy in patients with post-stroke shoulder hand syndrome.",
+            "authors": "Tian et al.",
+            "journal": "Frontiers in neurology",
+            "abstract": "Shoulder-hand syndrome (SHS) is a common complication after stroke, characterized by shoulder pain, hand swelling, and limited mobility, which severely impacts patient rehabilitation and quality of life. Physical therapy is central to its comprehensive management, yet clinical intervention approaches vary and lack standardization.",
+            "link": "https://doi.org/10.3389/fneur.2026.1779579",
+            "year": "2026",
+            "methods": "Study design not stated.",
+            "findings": [
+                "SHS is a common stroke complication: pain, swelling, limited mobility.",
+                "Physical therapy for SHS lacks standardization across clinical settings."
+            ],
+            "implications": "Advocate for and adopt standardized, evidence-based SHS physical therapy protocols.",
+            "category": "Shoulder Rehab"
+        },
         {
             "title": "The impact of the Otago exercise program on knee joint function recovery, balance, fall efficacy and functional capacity in patients undergoing Total knee arthroplasty: a systematic review and meta-analysis.",
             "authors": "Zhang et al.",
