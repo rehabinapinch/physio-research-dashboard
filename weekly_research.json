@@ -1,6 +1,35 @@
 {
-    "last_updated": "May 03, 2026",
+    "last_updated": "May 10, 2026",
     "papers": [
+        {
+            "title": "Predictive Value of the Systemic Immune-Inflammation Index for the Clinical Efficacy of Acupuncture and Exercise Rehabilitation in Knee Osteoarthritis: A Retrospective Study.",
+            "authors": "Sun et al.",
+            "journal": "Immunity, inflammation and disease",
+            "abstract": "To evaluate the predictive value of the systemic immune-inflammation index (SII) for clinical efficacy of acupuncture combined with exercise rehabilitation in patients with knee osteoarthritis (KOA).",
+            "link": "https://doi.org/10.1002/iid3.70430",
+            "year": "2026",
+            "methods": "Information not in abstract",
+            "findings": [
+                "No abstract available for analysis."
+            ],
+            "implications": "Clinical details require full-text access.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Effects of Neuromuscular Physiotherapy on Pain, Range of Motion, and Function in Shoulder-Related Disorders: A Meta-Analysis and Systematic Review.",
+            "authors": "Zhang et al.",
+            "journal": "Pain research & management",
+            "abstract": "Shoulder-related disorders are highly prevalent, with the global incidence being on the rise. Neuromuscular rehabilitation aims to optimize muscle function and motor performance by modulating the neuromuscular system, which comprises the central and peripheral nervous systems. This study aimed to synthesize evidence on neuromuscular rehabilitation for shoulder disorders, evaluating its effects on pain, range of motion, and shoulder function. English-language literature was retrieved from the PubMed, Cochrane, and Embase databases up to June 2025 via search terms such as \"Shoulder,\" \"Neuromuscular,\" and \"Rehabilitation\". The inclusion criterion was randomized controlled trials that used neuromuscular rehabilitation techniques for shoulder diseases. The primary outcome was pain improvement, and secondary indicators included joint range of motion and function. The effect size was the standardized mean difference (SMD) and 95% confidence interval (CI). Heterogeneity was evaluated via I<sup>2</sup>. Neuromuscular therapy significantly reduced pain (SMD [95% CI]\u2009=\u2009-2.82 [-4.79, -0.85]), with greater improvements than did the control (SMD [95% CI]\u2009=\u2009-0.75 [-1.35, -0.15]). Improvements were observed in shoulder flexion, extension, abduction, and external rotation, with external rotation showing the most significant benefit versus controls. Neuromuscular therapy improved functional scores (SMD [95% CI]\u2009=\u2009-1.95 [-3.71, -0.19]) and outperformed the control (SMD [95% CI]\u2009=\u2009-0.65 [-1.25, -0.05]). This study revealed that neuromuscular physical therapy can effectively relieve pain in patients with shoulder disorders, improve joint mobility, and enhance function. These findings support its use as an adjunctive therapy in conventional rehabilitation.",
+            "link": "https://doi.org/10.1155/prm/3157666",
+            "year": "2026",
+            "methods": "Systematic review of RCTs; sample size not stated.",
+            "findings": [
+                "Neuromuscular therapy significantly reduced pain compared to controls.",
+                "Improved shoulder ROM (especially external rotation) and functional scores."
+            ],
+            "implications": "Consider neuromuscular therapy as an adjunctive intervention for shoulder disorders.",
+            "category": "Shoulder Rehab"
+        },
         {
             "title": "Effects of aquatic rehabilitation on symptoms, physical function, and quality of life in individuals with knee joint dysfunction: a meta-analysis.",
             "authors": "Jiang et al.",
