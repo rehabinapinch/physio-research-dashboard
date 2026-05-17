@@ -1,6 +1,21 @@
 {
-    "last_updated": "May 10, 2026",
+    "last_updated": "May 17, 2026",
     "papers": [
+        {
+            "title": "Lower-Extremity Interjoint Coordination During Stair Ascent in Knee Osteoarthritis and the Therapeutic Response to Tai Chi Training.",
+            "authors": "Chai et al.",
+            "journal": "Journal of applied biomechanics",
+            "abstract": "Knee osteoarthritis (OA) alters lower-extremity kinematics during stair ascent, but interjoint coordination changes remain unclear. Improving coordination and balance is also a critical target for knee OA rehabilitation. This study compared lower-extremity interjoint coordination during stair ascent between 69 knee OA individuals and 30 age-matched healthy older adults. Knee OA participants were randomized into Tai Chi or control (balance and postural training) groups, receiving 12-week interventions. 3D motion analysis assessed interjoint coordination via perimeter, area, and coordination coefficient of cyclogram at baseline and postintervention. Compared with healthy elderly, individuals with knee OA exhibited greater sagittal plane joint excursions, increased hip-knee angular range, and less smooth cyclograms. Postintervention, both groups exhibited reduced excursions in the sagittal and frontal planes, with greater reductions observed in the control group. The Tai Chi group showed decreased hip-ankle and knee-ankle angular ranges, whereas the control group displayed reduced hip-knee ranges, both shifting coordination parameters toward healthy levels. Only the sagittal plane hip-knee cyclogram area differed significantly between interventions, being smaller in the balance group. Knee OA impairs stair ascent coordination in elderly. Both interventions enhance coordination, but Tai Chi's benefits are predominantly sagittal specific, whereas balance training improves both planes and demonstrates superior efficacy in improving hip-knee flexion-extension coordination.",
+            "link": "https://doi.org/10.1123/jab.2025-0224",
+            "year": "2026",
+            "methods": "Randomized controlled trial, 69 OA & 30 healthy. 12-week intervention. 3D motion analysis.",
+            "findings": [
+                "Knee OA impairs stair ascent coordination, showing greater sagittal excursions and less smooth patterns.",
+                "Both interventions enhance coordination; balance training improves both planes, superior for hip-knee flexion-extension."
+            ],
+            "implications": "Prioritize balance training for comprehensive (both plane) hip-knee coordination improvement in OA.",
+            "category": "Knee Rehab"
+        },
         {
             "title": "Predictive Value of the Systemic Immune-Inflammation Index for the Clinical Efficacy of Acupuncture and Exercise Rehabilitation in Knee Osteoarthritis: A Retrospective Study.",
             "authors": "Sun et al.",
