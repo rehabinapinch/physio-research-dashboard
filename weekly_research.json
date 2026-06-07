@@ -1,6 +1,21 @@
 {
-    "last_updated": "May 31, 2026",
+    "last_updated": "June 07, 2026",
     "papers": [
+        {
+            "title": "Recombinant human growth hormone (rHGH) for muscle enhancement in knee osteoarthritis: protocol for a pilot, randomised placebo-controlled trial.",
+            "authors": "Shah et al.",
+            "journal": "BMJ open",
+            "abstract": "The management of active patients with symptomatic knee osteoarthritis (KnOA) who are too young for total knee arthroplasty poses a specific challenge to clinicians. Research studies show that improving quadriceps muscle strength improves pain and function; however, aspects of the disease render it difficult for patients to achieve and maintain improvements. Recombinant human growth hormone (rHGH) is shown to increase the magnitude and duration of muscle growth when combined with exercise treatment in adult populations. Hence, rHGH combined with physical therapy may provide meaningful benefits in the treatment of KnOA.",
+            "link": "https://doi.org/10.1136/bmjopen-2025-106999",
+            "year": "2026",
+            "methods": "Study design not stated.",
+            "findings": [
+                "Quadriceps strength improves pain/function in KnOA, but difficult to maintain.",
+                "rHGH combined with exercise enhances muscle growth duration in adults."
+            ],
+            "implications": "Consider rHGH with physical therapy for younger KnOA patients to enhance muscle benefits.",
+            "category": "Knee Rehab"
+        },
         {
             "title": "Lower-Extremity Interjoint Coordination During Stair Ascent in Knee Osteoarthritis and the Therapeutic Response to Tai Chi Training.",
             "authors": "Chai et al.",
