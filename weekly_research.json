@@ -1,6 +1,34 @@
 {
-    "last_updated": "June 07, 2026",
+    "last_updated": "June 14, 2026",
     "papers": [
+        {
+            "title": "Neuromodulation through transcutaneous electrical nerve stimulation in knee osteoarthritis: A systematic review and meta-analysis of pain, function, and its role in multimodal rehabilitation.",
+            "authors": "Peng et al.",
+            "journal": "Journal of bodywork and movement therapies",
+            "abstract": "This systematic review and meta-analysis aimed to evaluate the effects of TENS on pain, physical function, muscle strength, stiffness, and mobility, and to examine its potential role in multimodal rehabilitation for knee osteoarthritis (KOA).",
+            "link": "https://doi.org/10.1016/j.jbmt.2026.03.006",
+            "year": "2026",
+            "methods": "Systematic review and meta-analysis.",
+            "findings": [
+                "No results or findings presented in this abstract."
+            ],
+            "implications": "Clinical implications cannot be derived from stated aims.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "[Effects of structured rehabilitation training on shoulder syndrome after cervical lymph neck dissection in patients with oral cancer].",
+            "authors": "Zeng et al.",
+            "journal": "Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences",
+            "abstract": "Shoulder dysfunction syndrome is common in patients with oral cancer after neck dissection. Existing rehabilitation programs are mostly based on fixed stage-specific exercises and lack dynamic adjustment mechanisms according to patients' real-time conditions. This study aims to investigate the effects of a structured rehabilitation training program on shoulder dysfunction syndrome in patients after neck dissection for oral cancer and to provide evidence for the development of precise rehabilitation strategies in clinical practice.",
+            "link": "https://doi.org/10.11817/j.issn.1672-7347.2026.260025",
+            "year": "2026",
+            "methods": "Study design not stated.",
+            "findings": [
+                "No findings presented."
+            ],
+            "implications": "Consider dynamically adjusted rehabilitation programs for real-time patient needs.",
+            "category": "Shoulder Rehab"
+        },
         {
             "title": "Recombinant human growth hormone (rHGH) for muscle enhancement in knee osteoarthritis: protocol for a pilot, randomised placebo-controlled trial.",
             "authors": "Shah et al.",
