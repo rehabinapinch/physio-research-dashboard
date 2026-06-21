@@ -1,6 +1,33 @@
 {
-    "last_updated": "June 14, 2026",
+    "last_updated": "June 21, 2026",
     "papers": [
+        {
+            "title": "The association of objective gait measures with patient-reported outcome measures and physical performance following total knee arthroplasty: A systematic review.",
+            "authors": "Hopkins et al.",
+            "journal": "The Knee",
+            "abstract": "Gait analysis, patient-reported outcomes (PROMs), and performance measures are used to assess outcomes following total knee arthroplasty (TKA). Comprehensive understanding of the relationship between gait measures from three-dimensional (3D) motion analysis and clinical outcomes, including falls, remains unclear. This review aims to explore the association of objective gait measures with PROMs and physical performance.",
+            "link": "https://doi.org/10.1016/j.knee.2026.104471",
+            "year": "2026",
+            "methods": "Review exploring association of gait measures with PROMs/performance.",
+            "findings": [
+                "3D gait measures' relationship with clinical outcomes (incl. falls) unclear.",
+                "Association with PROMs and physical performance requires exploration."
+            ],
+            "implications": "Combine objective gait analysis with PROMs/performance for comprehensive TKA assessment.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "Comparing simultaneous and staged bilateral total knee arthroplasty: a systematic review and meta-analysis.",
+            "authors": "Wang et al.",
+            "journal": "Journal of orthopaedic surgery and research",
+            "abstract": "For patients with bilateral knee osteoarthritis, staged bilateral total knee arthroplasty (StaBTKA) is generally considered lower in perioperative risk, while simultaneous bilateral total knee arthroplasty (SimBTKA) enables one-stage deformity correction and potential earlier rehabilitation, with its safety debated. This study aimed to systematically compare their clinical outcomes using available observational evidence.",
+            "link": "https://doi.org/10.1186/s13018-026-07039-0",
+            "year": "2026",
+            "methods": "Systematic review of observational evidence. Sample size not stated.",
+            "findings": [],
+            "implications": "Tailor rehab plans considering varying surgical risks and recovery timelines.",
+            "category": "Knee Rehab"
+        },
         {
             "title": "Neuromodulation through transcutaneous electrical nerve stimulation in knee osteoarthritis: A systematic review and meta-analysis of pain, function, and its role in multimodal rehabilitation.",
             "authors": "Peng et al.",
