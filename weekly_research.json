@@ -1,6 +1,77 @@
 {
-    "last_updated": "June 21, 2026",
+    "last_updated": "June 28, 2026",
     "papers": [
+        {
+            "title": "Mobilization with movement enhances early rehabilitation outcomes in knee osteoarthritis: a six-week randomized controlled trial.",
+            "authors": "Hasan et al.",
+            "journal": "Chiropractic & manual therapies",
+            "abstract": "BACKGROUND: Exercise is a first-line approach for knee osteoarthritis (KOA), yet pain during movement may limit adherence. Mulligan\u2019s mobilization with movement (MWM) is proposed to facilitate pain-free exercise and hasten early clinical gains. OBJECTIVE: To determine whether adding MWM to isometric training (IT) improves pain, quadriceps strength, and disability over six weeks compared with IT alone. METHODS: Two-arm, double-masked RCT in adults with radiographic KOA (Kellgren\u2013Lawrence grade 2\u20133). Participants were randomized to MWM\u2009+\u2009IT or IT-only (n\u2009=\u200925/group), 5 supervised sessions/week for 6 weeks. Outcomes: pain (VAS), quadriceps strength (strain-gauge dynamometry), disability (WOMAC) measured at baseline, weeks 1, 3, and 6. Primary analyses used linear mixed-effects models with fixed effects for Group, Time, and Group \u00d7 Time and a random intercept for Subject; joint Wald tests evaluated factor significance. RESULTS: Significant Time effects indicated improvement across outcomes (VAS \u03c72(3)\u2009=\u2009456.338, p\u2009<\u20090.0001; STN \u03c72(3)\u2009=\u2009186.876, p\u2009<\u20090.0001; WOMAC \u03c72(3)\u2009=\u20091515.459, p\u2009<\u20090.0001). Group\u00d7Time interactions were significant for VAS (\u03c72(3)\u2009=\u2009170.550, p\u2009<\u20090.0001), STN (\u03c72(3)\u2009=\u2009204.327, p\u2009<\u20090.0001), and WOMAC (\u03c72(3)\u2009=\u200971.041, p\u2009<\u20090.0001), demonstrating faster and larger six-week gains with MWM\u2009+\u2009IT. The Group main effect was significant for VAS (\u03c72(1)\u2009=\u200942.599, p\u2009<\u20090.0001) and non-significant for STN (\u03c72(1)\u2009=\u20090.613, p\u2009=\u20090.4336) and WOMAC (\u03c72(1)\u2009=\u20090.019, p\u2009=\u20090.8901). CONCLUSION: Adding MWM to IT accelerated and amplified six-week improvements in pain, strength, and function compared with IT alone. Early integration of MWM may enhance pain-free exercise and short-term rehabilitation outcomes in KOA. Larger multicentre trials with extended follow-up and economic evaluation are warranted. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05577403; prospectively registered on 12 /07/2021 (last updated on 14/09/2025).; available at https://clinicaltrials.gov/study/NCT05577403 .",
+            "link": "https://doi.org/10.1186/s12998-026-00636-0",
+            "year": "2026",
+            "methods": "Two-arm, double-masked RCT; n=50 adults with radiographic KOA.",
+            "findings": [
+                "MWM+IT showed faster, larger gains in pain, strength, and function than IT alone.",
+                "All outcomes significantly improved over time in both groups."
+            ],
+            "implications": "Integrate MWM with isometric training to accelerate pain, strength, and function gains.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "A retrospective analysis of the promoting effect of kinesio taping on the rehabilitation of military personnel with recurrent shoulder dislocation caused by training injury.",
+            "authors": "Xia et al.",
+            "journal": "BMC musculoskeletal disorders",
+            "abstract": "BACKGROUND: Kinesio taping, as a non-invasive, non-pharmacological elastic taping technique, has become increasingly popular in sports injury management due to its safety, non-restrictive nature, and lack of interference with joint movement. This study aims to evaluate whether conventional comprehensive rehabilitation combined with kinesio taping can more effectively improve rehabilitation outcomes in military personnel following surgery for recurrent shoulder dislocation caused by training injuries. METHODS: Sixty military personnel with recurrent shoulder dislocation caused by training injury were selected and randomly divided into a study group and a control group, with 30 cases in each group.The control group received conventional rehabilitation therapy, including physical agent modalities (ultrasound), cryotherapy and exercise therapy. The study group received, in addition to all treatments administered to the control group, shoulder-specific kinesio taping (using I-strip, Y-strip, and fan-cut strips applied over the supraspinatus muscle, deltoid muscle, and glenohumeral joint area, changed daily). After 6 weeks of treatment, shoulder joint range of motion, UCLA(The university of California at Los Angeles shoulder rating scale)score, and Constant-Murley score were compared between the two groups. RESULTS: After treatment, the range of motion for shoulder flexion, abduction, internal rotation, external rotation, and extension increased in both groups compared to pre-treatment values (P\u2009<\u20090.05). Similarly, the UCLA and Constant-Murley scores also improved significantly in both groups (P\u2009<\u20090.05). The study group demonstrated significantly greater improvements in shoulder joint mobility (P\u2009<\u20090.05), UCLA score (P\u2009<\u20090.05), and Constant-Murley score (P\u2009<\u20090.05) compared to the control group. CONCLUSION: Conventional comprehensive rehabilitation therapy combined with kinesio taping can better improve the range of motion and activities of daily living in postoperative military personnel with recurrent shoulder dislocation caused by training injury.",
+            "link": "https://doi.org/10.1186/s12891-026-09753-6",
+            "year": "2026",
+            "methods": "Randomized Controlled Trial, 60 military personnel with recurrent shoulder dislocation.",
+            "findings": [
+                "Both groups improved ROM, UCLA, and Constant-Murley scores significantly.",
+                "Kinesio taping group showed significantly greater improvements in all outcomes."
+            ],
+            "implications": "Consider Kinesio taping with rehab for better shoulder ROM and function post-dislocation.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "A systematic review and meta-analysis of the efficacy of exercise therapy for the rehabilitation of rotator cuff-related shoulder pain: a subgroup analysis of racquet sport athletes.",
+            "authors": "Wu et al.",
+            "journal": "Frontiers in bioengineering and biotechnology",
+            "abstract": "Rotator Cuff Related Shoulder Pain (RCRSP) is a common musculoskeletal disorder in both clinical and athletic populations, with a particularly high prevalence among racquet sport athletes. This study aimed to systematically evaluate the overall effectiveness of exercise therapy in the rehabilitation of RCRSP and to further explore its therapeutic effects among racquet sport athletes, providing evidence-based guidance for clinical practice and individualized rehabilitation programs.",
+            "link": "https://doi.org/10.3389/fbioe.2026.1840050",
+            "year": "2026",
+            "methods": "Study design not stated",
+            "findings": [],
+            "implications": "Consider exercise therapy for RCRSP, especially when treating racquet sport athletes.",
+            "category": "Shoulder Rehab"
+        },
+        {
+            "title": "A retrospective analysis of the promoting effect of kinesio taping on the rehabilitation of military personnel with recurrent shoulder dislocation caused by training injury.",
+            "authors": "Xia et al.",
+            "journal": "BMC musculoskeletal disorders",
+            "abstract": "BACKGROUND: Kinesio taping, as a non-invasive, non-pharmacological elastic taping technique, has become increasingly popular in sports injury management due to its safety, non-restrictive nature, and lack of interference with joint movement. This study aims to evaluate whether conventional comprehensive rehabilitation combined with kinesio taping can more effectively improve rehabilitation outcomes in military personnel following surgery for recurrent shoulder dislocation caused by training injuries. METHODS: Sixty military personnel with recurrent shoulder dislocation caused by training injury were selected and randomly divided into a study group and a control group, with 30 cases in each group.The control group received conventional rehabilitation therapy, including physical agent modalities (ultrasound), cryotherapy and exercise therapy. The study group received, in addition to all treatments administered to the control group, shoulder-specific kinesio taping (using I-strip, Y-strip, and fan-cut strips applied over the supraspinatus muscle, deltoid muscle, and glenohumeral joint area, changed daily). After 6 weeks of treatment, shoulder joint range of motion, UCLA(The university of California at Los Angeles shoulder rating scale)score, and Constant-Murley score were compared between the two groups. RESULTS: After treatment, the range of motion for shoulder flexion, abduction, internal rotation, external rotation, and extension increased in both groups compared to pre-treatment values (P\u2009<\u20090.05). Similarly, the UCLA and Constant-Murley scores also improved significantly in both groups (P\u2009<\u20090.05). The study group demonstrated significantly greater improvements in shoulder joint mobility (P\u2009<\u20090.05), UCLA score (P\u2009<\u20090.05), and Constant-Murley score (P\u2009<\u20090.05) compared to the control group. CONCLUSION: Conventional comprehensive rehabilitation therapy combined with kinesio taping can better improve the range of motion and activities of daily living in postoperative military personnel with recurrent shoulder dislocation caused by training injury.",
+            "link": "https://doi.org/10.1186/s12891-026-09753-6",
+            "year": "2026",
+            "methods": "Randomized controlled trial (n=60) comparing conventional rehab with/without kinesio taping.",
+            "findings": [
+                "Both groups improved shoulder range of motion and functional scores significantly.",
+                "Kinesio taping group showed significantly greater improvements in all outcome measures."
+            ],
+            "implications": "Consider adding Kinesio taping to comprehensive post-operative shoulder rehabilitation for enhanced recovery.",
+            "category": "Physiotherapy General"
+        },
+        {
+            "title": "A systematic review and meta-analysis of the efficacy of exercise therapy for the rehabilitation of rotator cuff-related shoulder pain: a subgroup analysis of racquet sport athletes.",
+            "authors": "Wu et al.",
+            "journal": "Frontiers in bioengineering and biotechnology",
+            "abstract": "Rotator Cuff Related Shoulder Pain (RCRSP) is a common musculoskeletal disorder in both clinical and athletic populations, with a particularly high prevalence among racquet sport athletes. This study aimed to systematically evaluate the overall effectiveness of exercise therapy in the rehabilitation of RCRSP and to further explore its therapeutic effects among racquet sport athletes, providing evidence-based guidance for clinical practice and individualized rehabilitation programs.",
+            "link": "https://doi.org/10.3389/fbioe.2026.1840050",
+            "year": "2026",
+            "methods": "Study design not stated",
+            "findings": [
+                "No findings reported."
+            ],
+            "implications": "Prioritize tailored exercise therapy for RCRSP in racquet sport athletes.",
+            "category": "Physiotherapy General"
+        },
         {
             "title": "The association of objective gait measures with patient-reported outcome measures and physical performance following total knee arthroplasty: A systematic review.",
             "authors": "Hopkins et al.",
