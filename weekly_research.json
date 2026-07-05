@@ -1,6 +1,37 @@
 {
-    "last_updated": "June 28, 2026",
+    "last_updated": "July 05, 2026",
     "papers": [
+        {
+            "title": "Implementation of a nine-grid thinking model to optimize operating room nursing pathways for older adults undergoing total knee arthroplasty.",
+            "authors": "Tian et al.",
+            "journal": "Journal of orthopaedic surgery (Hong Kong)",
+            "abstract": "ObjectiveTo assess the effectiveness of operating room nursing pathways based on the nine-grid thinking model in older adults undergoing total knee arthroplasty (TKA).Methods110 older adults scheduled for TKA were randomly assigned to either a control group, which received conventional operating room nursing, or a intervention group, which received nursing care guided by the nine-grid thinking model. Key outcomes included surgical efficiency, nursing quality, satisfaction among patients and physicians, incidence of complications, and rehabilitation outcomes were compared between the two groups.ResultsThe intervention group had significantly shorter surgical prep (t = 9.106), operative (t = 5.294), and turnover times (t = 14.110) than controls (<i>p</i> < 0.05). After the intervention, the intervention group scored higher on sterile technique (t = 21.850) and overall nursing performance (t = 12.440). Their nurses also reported greater satisfaction with admission education (t = 8.591), positioning (t = 11.940), and overall care (t = 7.182) (<i>p</i> < 0.05). Surgeons rated the intervention group higher for instrument prep (t = 9.629), intraoperative coordination (t = 13.860), instrument delivery (t = 11.490), and overall satisfaction (t = 16.670) (<i>p</i> < 0.05). Deep-vein-thrombosis incidence was lower (\u03c72 = 4.949), postoperative pain scores were lower (t = 39.980), and ambulation and functional-recovery scores were higher in the intervention group (all <i>p</i> < 0.05).ConclusionThe application of the nine-grid thinking model significantly enhanced the quality and efficiency of perioperative care for older adults undergoing TKA.",
+            "link": "https://doi.org/10.1177/10225536261459490",
+            "year": "2026",
+            "methods": "Randomized controlled trial (RCT), 110 older adults undergoing TKA.",
+            "findings": [
+                "Intervention group showed improved surgical efficiency and nursing quality.",
+                "Enhanced satisfaction for nurses and surgeons; lower DVT incidence.",
+                "Better postoperative pain management, ambulation, and functional recovery."
+            ],
+            "implications": "Anticipate quicker TKA patient recovery due to improved perioperative care and reduced DVT risk.",
+            "category": "Knee Rehab"
+        },
+        {
+            "title": "The impact of robot-assisted training on gait, balance, and endurance in patients with partial spinal cord injuries: insights from rehabilitation.",
+            "authors": "Pro\u0144czuk et al.",
+            "journal": "Journal of neuroengineering and rehabilitation",
+            "abstract": "OBJECTIVE: This study evaluated the effectiveness of robotic-assisted gait training in improving gait function, balance, and endurance in individuals with chronic spinal cord injury (SCI). It compared robotic-assisted therapy with conventional rehabilitation and examined the impact of training frequency. METHODS: A randomized controlled trial was conducted at specialized SCI rehabilitation centers. Seventy-five participants aged 19\u201340 with chronic partial SCI American Spinal Injury Association Impairment Scale (AIS) grades B, C, or D were enrolled in this randomized controlled trial. A pre-registered athletic subgroup consisting of 45 individuals with intensive competitive sports backgrounds (\u2265\u20094 sessions/week pre-injury) was designated for subgroup analysis. The remaining 30 participants were physically active non-athletes (2\u20133 sessions/week pre-injury). Participants were divided into three groups: L1 (robotic-assisted gait training once weekly), L2 (robotic-assisted gait training twice weekly), and C (conventional rehabilitation). Functional outcomes were assessed using the 10-Meter Walk Test (10MWT), 6-Minute Walk Test (6MWT), Walking Index for Spinal Cord Injury II (WISCI II), Lower Extremity Motor Score (LEMS), Timed Up and Go Test (TUG), and stabilometry before and after the intervention. RESULTS: The L2 group demonstrated the greatest improvements: TUG time decreased by 7.7\u2009\u00b1\u20093.0\u00a0s (17.2\u2009\u00b1\u20092.5\u00a0s PRE vs. 9.5\u2009\u00b1\u20091.8\u00a0s POST; \u221244.8%, \u03b7\u00b2 = 0.18), and 6MWT distance increased by 43.5\u2009\u00b1\u200916.2\u00a0m (35.5\u2009\u00b1\u20094.8\u00a0m PRE vs. 79\u2009\u00b1\u200914\u00a0m POST; +122.5%, \u03b7\u00b2 = 0.25). These absolute improvements substantially exceed established MCID thresholds and were accompanied by clinically meaningful gains in quality of life. Robotic-assisted therapy, particularly at higher training frequencies, significantly outperformed conventional rehabilitation, especially in AIS D patients. CONCLUSIONS: Robotic-assisted gait training effectively improves gait function, endurance, and balance, with enhanced benefits observed at higher training frequencies. Higher training frequency demonstrated clinically meaningful improvements across all participants. While improvements were observed across the cohort, future adequately powered trials are needed to systematically investigate whether athlete-specific training histories influence responsiveness to different Lokomat frequencies.",
+            "link": "https://doi.org/10.1186/s12984-026-01977-w",
+            "year": "2026",
+            "methods": "RCT with 75 SCI participants, comparing robotic training frequencies versus conventional.",
+            "findings": [
+                "Higher frequency robotic gait training improved TUG, 6MWT significantly, exceeding MCID.",
+                "Robotic training, especially higher frequency, outperformed conventional rehab, notably for AIS D."
+            ],
+            "implications": "Prioritize higher frequency robotic gait training for SCI patients for enhanced outcomes.",
+            "category": "Physiotherapy General"
+        },
         {
             "title": "Mobilization with movement enhances early rehabilitation outcomes in knee osteoarthritis: a six-week randomized controlled trial.",
             "authors": "Hasan et al.",
